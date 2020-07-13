@@ -59,7 +59,7 @@ Add the following code to the **Grow** sprite to broadcast a 'grow' message when
 
 ```blocks3
 when this sprite clicked
-broadcast grow
+broadcast [grow v]
 ```
 --- /task ---
 
