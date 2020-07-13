@@ -63,7 +63,7 @@ broadcast [add v]
 --- task ---
 Now select the **Ingredients** sprite and click on the Code tab. 
 
-![Fruit salad Code tab](images/fruit-code-tab.gif){:width="400px"}
+![Fruit salad Code tab](images/fruit-code-tab.gif)
 
 Add a `when I receive`{:class="block3events"} block:
 
