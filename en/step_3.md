@@ -1,4 +1,4 @@
-## More fruit
+## Choose more fruit
 One type of fruit doesn't make a very interesting fruit salad. The Ingredient sprite has other fruit costumes to choose from.
 
 --- task ---
