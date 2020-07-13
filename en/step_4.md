@@ -21,7 +21,7 @@ You will now see button sitting in the Stage area. You need to move the button o
 
 --- task ---
 
-Drag the button from the plate to the menu area on the left-hand side of the screen.
+Drag the button in to position from the plate to the menu area on the left-hand side of the screen.
 
 --- /task ---
 
@@ -33,7 +33,7 @@ Change the name of 'Button3' to **Grow** sprite.
 
 --- task ---
 
-Click on **Grow** sprite's Costumes tab. 
+Click on the **Grow** sprite's Costumes tab. 
 
 ![image showing Grow sprite paint editor](images/fruit-grow-paint.png){:width="400px"}
 
@@ -51,17 +51,13 @@ Use the 'handles' to make the '+' the right size for your button.
 
 --- task ---
 Switch back to the Code tab. 
+![image showing code tab](images/fruit-code-tab.gif){:width="300px"}
 
 --- /task ---
 
 --- task ---
-Drag the button into position and resize it. 
 
---- /task ---
-
---- task ---
-
-Add code to the new button to broadcast a 'grow' message when it is clicked. 
+Add code to the **Grow** sprite to broadcast a 'grow' message when it is clicked. 
 
 ```blocks3
 when this sprite clicked
@@ -69,46 +65,24 @@ broadcast grow
 ```
 --- /task ---
 
+You now need to add some code to the **Ingredients sprite** so it can recieve the message to grow.
+
 --- task ---
-Select the Ingredients sprite and add code to grow the sprite:
+Select the **Ingredients sprite** 
+
+--- /task ---
+
+--- task ---
+
+Add the following code to the **Ingredients sprite** for it to grow:
 
 ```blocks3
 when I receive [grow v]
 change size by (10)
 ```
---- /task ---
 
 --- task ---
-Try your project out and make sure you can grow your pieces of fruit before stamping them. 
+Run your program. Make sure that you can grow your pieces of fruit before stamping them. 
 --- /task ---
-
---- task ---
-Add another Button 3 and use the text tool to add a '-' symbol to it.
---- /task ---
-
---- task ---
-Position and resize your new button. 
---- /task ---
-
---- task --- 
-Add code to your Shrink button to broadcast a 'shrink' event when it is clicked.
-
---- /task ---
-
---- task ---
-Add code to the **Ingredient** sprite to shrink when it receives a 'shrink' message:
-
-```blocks3
-when I receive [grow v]
-change size by (-10)
-```
---- /task ---
-
---- task ---
-Take some time to enjoy your project and design a fruit salad. 
---- /task ---
-
---- save ---
-
 
 
