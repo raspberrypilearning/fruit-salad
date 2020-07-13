@@ -87,6 +87,8 @@ You will now need to add the `Pen`{:class="block3extensions"} extension block.
 Go to the extension block tab and in the Code tab select the stamp block
 
 ![Add Pen extension](images/fruit-pen-extension.png)
+![Add Pen extension](images/fruit-pen-extension2.png)
+
 
 --- /task ---
 
