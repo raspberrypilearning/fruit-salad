@@ -8,7 +8,7 @@ last_tested: "2020-06-30"
 steps:
   - title: Introduction
   - title: Stamp fruit
-  - title: Change the fruit
+  - title: Choose other fruit
   - title: Add a grow fruit button
   - title: Add a shrink fruit button
   - title: Add a rotate fruit button
