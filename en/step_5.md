@@ -1,8 +1,18 @@
 ## Shrink button
- 
+
+You will now make another button but this time the button will shrink the fruit ingredients. Go back to grow sprite if you need a reminder on any of the following steps.
+
 --- task ---
-Add another Button 3 and use the text tool to add a '-' symbol to it.
+
+Go to Choose a Sprite and select another Button3.
+
 --- /task ---
+
+--- task ---
+
+Select  the text tool to add a '-' symbol to it.
+
+
 
 --- task ---
 Position and resize your new button. 
