@@ -4,11 +4,11 @@ Not all pieces of fruit are the same size. Now you're going to add buttons to gr
 --- task ---
 To add a button sprite go to Choose a Sprite.
 
-![image showing Choose a Sprite](images/fruit-choose-sprite.png){:width="300px"}
+![image showing Choose a Sprite](images/fruit-choose-sprite.png){:width="400px"}
 
 Search for Button3 by typing 'Button3' in the search menu and select it.
 
-![image showing Button3 sprite](images/fruit-button3-sprite.png){:width="300px"}
+![image showing Button3 sprite](images/fruit-button3-sprite.png){:width="400px"}
 
 --- /task ---
 
