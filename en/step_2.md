@@ -11,13 +11,13 @@ If working **online**, open the [starter project](http://rpf.io/fruit-salad-on){
  
 If working **offline**, open the project [starter file](http://rpf.io/p/en/serene-scene-get){:target="_blank"} in the Scratch offline editor. If you need to download and install Scratch, you can find it [here](https://scratch.mit.edu/download){:target="_blank"}.
 
-![Fruit salad starter project](images/fruit-starter.png){:width="300px"}
+![Fruit salad starter project](images/fruit-starter.png){:width="400px"}
 
 --- /task ---
 
 The project doesn't have any code so it doesn't do anything yet.
 
-Every time you click or tap on the Stage, you want to create a stamp of one of the **Ingredients** sprite at the location of the mouse pointer.
+Every time you click or tap on the Stage, you want to create a stamp of one of the costumes in the **Ingredients** sprite at the location of your mouse pointer.
 
 --- task ---
 
