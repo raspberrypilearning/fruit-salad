@@ -1,5 +1,5 @@
 ## Introduction
-In this project you'll create an app that you can use to design your own fruit salad. Preparing food and creating art are great ways to relax, the Fruit salad app lets you make food art! 
+In this project you'll create an app for family and friends to design their own fruit salad. Preparing food and creating art are great ways to relax - the Fruit salad app lets you make food art! 
 
 
 ### What you will make
