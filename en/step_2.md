@@ -112,7 +112,7 @@ If you add a piece of fruit so that it would overlap the stage then the stamp wi
 --- /task ---
 
 --- task ---
-The `erase all`{:class="block3extension"} block removes stamps. 
+The `erase all`{:class="block3extensions"} block removes stamps. 
 
 Add code to the Ingredients sprite to clear the plate when the green flag is clicked. 
 
