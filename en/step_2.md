@@ -95,7 +95,8 @@ stamp
 go to x: (-160) y: (100)
 ```
 
-**Tip:** The coordinates of the `go to x: y:` block will have the current location of the Ingredient sprite already in them so you shouldn't need to change them.
+**Tip:** The coordinates of the `go to x: y:`{:class="block3motion"} block will have the current location of the Ingredient sprite already in them so you shouldn't need to change them.
+
 --- /task ---
 
 --- task ---
@@ -103,7 +104,7 @@ Try out your project by clicking on the plate to add pieces of fruit.
 
 The Ingredient sprite moves from the menu to the mouse pointer, creates a stamp and then moves back to the menu, this happens quickly so you don't see it move!
 
-You won't be able to create a stamp by clicking on the menu because the 'add' message only gets broadcast if you click on the Stage and the menu stops you doing this. 
+You won't be able to create a stamp by clicking on the menu as the menu stops you doing this. The 'add' message only gets broadcast if you click on the Stage.
 
 If you add a piece of fruit so that it would overlap the Stage then the stamp will go behind the menu. 
 
