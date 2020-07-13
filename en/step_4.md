@@ -32,7 +32,10 @@ Change the name of 'Button3' to **Grow** sprite.
 --- /task ---
 
 --- task ---
-Click on the Costumes tab. 
+
+Click on **Grow** sprite's Costumes tab. 
+
+![image showing Button3 search](images/fruit-grow-paint.png).
 
 Choose the Text tool and select a Fill colour. Add a '+' symbol to your button.
 
