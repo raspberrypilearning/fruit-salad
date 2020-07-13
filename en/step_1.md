@@ -17,7 +17,7 @@ Click the green flag to clear the plate and start again.
 --- /no-print ---
 
 --- print-only ---
-![Complete project](images/showcase_static.png)
+![Complete project](images/showcasefc_static.png)
 --- /print-only ---
 
 --- collapse ---
