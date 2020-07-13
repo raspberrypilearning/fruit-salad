@@ -8,14 +8,14 @@ To add a button sprite go to Choose a Sprite.
 
 Search for Button3 by typing 'Button3' in the search menu and select it.
 
-![image showing Button3 search](images/fruit-button3-sprite.png){:width="300px"}
+![image showing Button3 sprite](images/fruit-button3-sprite.png){:width="300px"}
 
 --- /task ---
 
 You will now see button sitting in the Stage area. You need to move the button otherwise someone may eat it!
 
 --- no-print ---
-![image showing Button3 search](images/fruit-button3-menu.gif).
+![gif showing Button3 in menu](images/fruit-button3-menu.gif).
 
 --- /no-print ---
 
@@ -35,15 +35,17 @@ Change the name of 'Button3' to **Grow** sprite.
 
 Click on **Grow** sprite's Costumes tab. 
 
-![image showing Button3 search](images/fruit-grow-paint.png).
+![image showing Grow sprite paint editor](images/fruit-grow-paint.png){:width="300px"}
 
-Choose the Text tool and select a Fill colour. Add a '+' symbol to your button.
+Choose the Text tool and select any Fill colour you like. 
 
-![Text Tool]()
+![image showing text and fill tools](images/fruit-text-fill-tool.png){:width="300px"}
+
+Add a '+' symbol to your button by selecting the 'plus' key on your keyboard.
 
 Use the 'handles' to make the '+' the right size for your button. 
 
-![Button with plus symbol]()
+![image showing plus enlarging](images/fruit-grow-plus.png){:width="300px"}
 
 --- /task ---
 
