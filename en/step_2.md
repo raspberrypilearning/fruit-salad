@@ -96,8 +96,11 @@ Select the `Pen`{:class="block3extensions"} block.
 
 --- task ---
 
-Then in the Code tab, select the `stamp`{:class="block3extensions"} block
- 
+Then in the Code tab, select the `stamp`{:class="block3extensions"} block:
+
+```blocks3
+stamp
+```
  --- /task ---
  
 --- task ---
