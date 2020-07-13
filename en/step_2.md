@@ -39,11 +39,11 @@ when stage clicked
 
 --- /task ---
 
-Now the Stage needs to let the Ingredient sprite know that it should add an ingredient to the plate. The `broadcast` block sends a message which any sprite can receive. 
+Now the Stage needs to let the Ingredient sprite know that it should add an ingredient to the plate. The `broadcast`{:class="block3events"} block sends a message which any sprite can receive. 
 
 --- task ---
 
-Add a `broadcast` block:
+Add a `broadcast` {:class="block3events"} block:
 
 ```blocks3
 broadcast [message1 v]
