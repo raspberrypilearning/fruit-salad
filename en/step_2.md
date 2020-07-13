@@ -1,7 +1,7 @@
 ## Stamping fruit
-Scratch **Extensions** add more blocks. The `Pen`{:class="block3extensions"} extension allows you to draw and stamp. You're going to use the `Pen`{:class="block3extensions"} extension to create 'stamps' of a fruit sprite. 
+Scratch's Extensions blocks offers additional block to use. For instance, the `Pen`{:class="block3extensions"} block allows you to draw and stamp (copy) images. You're going to use the `Pen`{:class="block3extensions"} extension to create 'stamps' of a fruit sprite. 
 
-A stamp is a copy of the sprite which you can't move.
+A stamp is a copy of the sprite which you can't move once you've stamped it.
 
 --- task ---
 First open the Fruit salad starter project. You will see a backdrop with a tablecloth and a plate. There's a menu sprite on the left of the stage and a fruit sprite that has fruit costumes that you'll be able to stamp onto the plate. 
