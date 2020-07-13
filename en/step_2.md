@@ -31,7 +31,7 @@ The Stage needs a block to detect when it is clicked.
 
 --- task ---
 
-Add a `when stage clicked` block:
+Add a `when stage clicked` {:class="block3events"} block:
 
 ```blocks3
 when stage clicked
@@ -39,17 +39,17 @@ when stage clicked
 
 --- /task ---
 
-Now the Stage needs to let the Ingredient sprite know that it should add an ingredient to the plate. The `broadcast` block sends a message which any sprite can receive. 
+Now the Stage needs to let the Ingredient sprite know that it should add an ingredient to the plate. The `broadcast`{:class="block3events"} block sends a message which any sprite can receive. 
 
 --- task ---
 
-Add a `broadcast` block:
+Add a `broadcast`{:class="block3events"} block:
 
 ```blocks3
 broadcast [message1 v]
 ```
 
-Click on `message1` and choose `New message` and enter 'add'. 
+Click on `message1`{:class="block3events"} and choose `New message`{:class="block3events"} and enter 'add'. 
 
 --- /task ---
 
@@ -65,7 +65,7 @@ Now select the Ingredient sprite and click on the Code tab.
 
 ![Fruit salad Code tab](images/fruit-code-tab.gif){:width="400px"}
 
-Add a `when I receive` block:
+Add a `when I receive`{:class="block3events"} block:
 
 ```blocks3
 when I receive [add]
@@ -89,7 +89,7 @@ Go to the extension block tab and in the Code tab select the stamp block
 
 
 --- task ---
-Add blocks under the `when I receive [add]`{:class="block3events"}  to move the Ingredient sprite to the location of the mouse pointer and create a stamp, then return to the starting position:
+Add blocks under the `when I receive [add]`{:class="block3events"} to move the Ingredient sprite to the location of the mouse pointer and create a stamp, then return to the starting position:
 
 ```blocks3
 when I receive [add]
