@@ -33,7 +33,7 @@ broadcast [rotate v]
 --- task ---
 Now select the **Ingredient** sprite and click on the Code tab. 
 
-Add code to rotate the ingredient when a `rotate`{:class="block3motion"} message is received. 
+Add code to rotate the ingredient when a `rotate`{:class="block3events"} message is received. 
 
 ```blocks3
 when I receive [rotate v]
