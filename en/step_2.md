@@ -65,13 +65,16 @@ Now select the **Ingredients** sprite and click on the Code tab.
 
 ![Fruit salad Code tab](images/fruit-code-tab.gif)
 
+--- /task ---
+
+--- task ---
 Add a `when I receive`{:class="block3events"} block:
 
 ```blocks3
 when I receive [add]
 ```
 
-The blocks under this block will run when you click on the stage.
+All blocks under this block will now run when you click on the Stage.
 
 --- /task ---
 
