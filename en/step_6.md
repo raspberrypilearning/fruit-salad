@@ -21,6 +21,8 @@ Draw an arrow on the button.
 
 ![Arrow on button in Costume editor]()
 
+--- /task ---
+
 --- task ---
 Now add code to the button so it broadcasts a message when it is clicked:
 
