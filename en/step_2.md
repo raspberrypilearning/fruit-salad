@@ -25,8 +25,6 @@ Click on the Stage and then the Code tab.
 
 ![Fruit salad Stage](images/fruit-stage-code.png){:width="400px"}
 
-![Fruit salad Stage](images/fruit-code-tab.gif){:width="400px"}
-
 --- /task ---
 
 The Stage needs a block to detect when it is clicked. 
@@ -65,7 +63,6 @@ broadcast [add v]
 --- task ---
 Now select the Ingredient sprite and click on the Code tab. 
 
-![Fruit salad Stage](images/fruit-stage.png){:width="400px"}
 ![Fruit salad Code tab](images/fruit-code-tab.gif){:width="400px"}
 
 Add a `when I receive` block:
@@ -86,7 +83,7 @@ Click 'Add extension' and choose the Pen extension.
 
 You will see a new Pen section in the Code tab. 
 
-![Pen blocks](images/fruit-pen-blocks.png)
+![Pen blocks](images/fruit-pen-tool.gif)
 
 --- task ---
 Add blocks under the `when I receive [add]` to move the Ingredient sprite to the location of the mouse pointer and create a stamp, then return to the starting position:
@@ -106,9 +103,9 @@ Try out your project by clicking on the plate to add pieces of fruit.
 
 The Ingredient sprite moves from the menu to the mouse pointer, creates a stamp and then moves back to the menu, this happens quickly so you don't see it move!
 
-You won't be able to create a stamp by clicking on the menu because the 'add' message only gets broadcast if you click on the stage and the menu stops you doing this. 
+You won't be able to create a stamp by clicking on the menu because the 'add' message only gets broadcast if you click on the Stage and the menu stops you doing this. 
 
-If you add a piece of fruit so that it would overlap the stage then the stamp will go behind the menu. 
+If you add a piece of fruit so that it would overlap the Stage then the stamp will go behind the menu. 
 
 **Tip:** Stamps go on top of the backdrop but underneath the sprites. 
 
