@@ -23,13 +23,15 @@ Every time you click or tap on the Stage, you want to create a stamp of one of t
 
 Click on the Stage and then the Code tab. 
 
-![Fruit salad Stage and Code tab](images/fruit-stage-code.png){:width="300px"}
+![Fruit salad Stage](images/fruit-stage-code.png){:width="400px"}
+
+![Fruit salad Stage](images/fruit-code-tab.png){:width="400px"}
 
 --- /task ---
 
-Look at the blocks 
+The Stage needs a block to detect when it is clicked. 
 
-The Stage has a block to detect when the Stage is clicked. 
+--- task ---
 
 Add a `when stage clicked` block:
 
@@ -39,10 +41,9 @@ when stage clicked
 
 --- /task ---
 
---- task ---
-Now the Stage needs to let the Ingredient sprite know that it should add an ingredient to the plate. 
+Now the Stage needs to let the Ingredient sprite know that it should add an ingredient to the plate. The `broadcast` block sends a message which any sprite can receive. 
 
-The `broadcast` block sends a message which any sprite can receive. 
+--- task ---
 
 Add a `broadcast` block:
 
@@ -52,6 +53,8 @@ broadcast [message1 v]
 
 Click on `message1` and choose `New message` and enter 'add'. 
 
+--- /task ---
+
 Your code should look like this:
 
 ```blocks3
@@ -59,10 +62,11 @@ when stage clicked
 broadcast [add v]
 ```
 
---- /task ---
-
 --- task ---
 Now select the Ingredient sprite and click on the Code tab. 
+
+![Fruit salad Stage](images/fruit-code-tab.png){:width="400px"}
+![Fruit salad Stage](images/fruit-code-tab.gif){:width="400px"}
 
 Add a `when I receive` block:
 
