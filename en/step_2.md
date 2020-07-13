@@ -83,7 +83,7 @@ Click 'Add extension' and choose the Pen extension.
 
 You will see a new Pen section in the Code tab. 
 
-![Pen blocks](images/fruit-pen-blocks.png)
+![Pen blocks](images/fruit-pen-blocks.gif)
 
 --- task ---
 Add blocks under the `when I receive [add]` to move the Ingredient sprite to the location of the mouse pointer and create a stamp, then return to the starting position:
