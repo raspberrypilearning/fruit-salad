@@ -25,7 +25,7 @@ Click on the Stage and then the Code tab.
 
 ![Fruit salad Stage](images/fruit-stage-code.png){:width="400px"}
 
-![Fruit salad Stage](images/fruit-code-tab.png){:width="400px"}
+![Fruit salad Stage](images/fruit-code-tab.gif){:width="400px"}
 
 --- /task ---
 
@@ -65,8 +65,8 @@ broadcast [add v]
 --- task ---
 Now select the Ingredient sprite and click on the Code tab. 
 
-![Fruit salad Stage](images/fruit-code-tab.png){:width="400px"}
-![Fruit salad Stage](images/fruit-code-tab.gif){:width="400px"}
+![Fruit salad Stage](images/fruit-stage.png){:width="400px"}
+![Fruit salad Code tab](images/fruit-code-tab.gif){:width="400px"}
 
 Add a `when I receive` block:
 
