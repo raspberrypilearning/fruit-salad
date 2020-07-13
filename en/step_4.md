@@ -4,11 +4,11 @@ Not all pieces of fruit are the same size. Now you're going to add buttons to gr
 --- task ---
 To add a button sprite go to Choose a Sprite.
 
-![image showing Choose a Sprite](images/fruit-choose-sprite.png) 
+![image showing Choose a Sprite](images/fruit-choose-sprite.png){:width="300px"}
 
-Search for Button3 sprite by typing 'Button3' in the search menu.
+Search for Button3 by typing 'Button3' in the search menu.
 
-![image showing Button3 search](images/fruit-button3-sprite.png).
+![image showing Button3 search](images/fruit-button3-sprite.png){:width="300px"}
 
 You now need to place the button in the menu area otherwise someone may eat it!
 
@@ -21,9 +21,9 @@ You now need to place the button in the menu area otherwise someone may eat it!
 
 --- /no-print ---
 
-Select 'Button3' and you will now see it as a button on the Stage area. Drag it in to the menu area to the left of the screen.
+Select 'Button3' and you will now see it sitting in the Stage area. Drag it in to the menu area to the left of the screen.
 
-Change the name of 'Button3' sprite to **Grow** sprite.
+Change the name of 'Button3' to **Grow** sprite.
 
 --- /task ---
 
