@@ -7,10 +7,10 @@ copyedit: false
 last_tested: "2020-06-30"
 steps:
   - title: Introduction
-  - title: Stamping
+  - title: Stamp fruit
   - title: Change the fruit
-  - title: Grow fruit button
-  - title: Shrink fruit button
-  - title: Rotate the fruit button
+  - title: Add a grow fruit button
+  - title: Add a shrink fruit button
+  - title: Add a rotate fruit button
   - title: What next?
   
