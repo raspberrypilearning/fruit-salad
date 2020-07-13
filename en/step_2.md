@@ -31,7 +31,7 @@ The Stage needs a block to detect when it is clicked.
 
 --- task ---
 
-Add a `when stage clicked` {:class="block3events"} block:
+Add a `when stage clicked`{:class="block3events"} block:
 
 ```blocks3
 when stage clicked
