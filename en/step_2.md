@@ -75,15 +75,18 @@ The blocks under this block will run when you click on the stage.
 
 --- /task ---
 
---- task ---
-Click 'Add extension' and choose the Pen extension. 
-
-![Add Pen extension](images/fruit-pen-extension.png)
---- /task ---
-
-You will see a new Pen section in the Code tab. 
+You will now need to add the Pen extension.
 
 ![Pen blocks](images/fruit-pen-tool.gif)
+
+--- task ---
+
+Go to the extension block tab and in the Code tab select the stamp block
+
+![Add Pen extension](images/fruit-pen-extension.png)
+
+--- /task ---
+
 
 --- task ---
 Add blocks under the `when I receive [add]` to move the Ingredient sprite to the location of the mouse pointer and create a stamp, then return to the starting position:
