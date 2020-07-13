@@ -49,7 +49,7 @@ Add a `broadcast` block:
 broadcast [message1 v]
 ```
 
-Click on `message1` and choose `New message` and enter 'add'. 
+Click on `message1`{:class="block3events"} and choose `New message`{:class="block3events"} and enter 'add'. 
 
 --- /task ---
 
@@ -65,7 +65,7 @@ Now select the Ingredient sprite and click on the Code tab.
 
 ![Fruit salad Code tab](images/fruit-code-tab.gif)
 
-Add a `when I receive` block:
+Add a `when I receive`{:class="block3events"} block:
 
 ```blocks3
 when I receive [add]
