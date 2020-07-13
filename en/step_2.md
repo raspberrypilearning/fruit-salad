@@ -75,7 +75,7 @@ The blocks under this block will run when you click on the stage.
 
 --- /task ---
 
-You are now going to open a new block in the block Extension: Pen{:class="block3extension"}.
+You are now going to open a new block in the block Extension: `Pen`{:class="block3extensions"}.
 
 --- task ---
 Click 'Add extension' and choose the Pen extension.
