@@ -1,4 +1,4 @@
-## Add a shrink button
+## Shrink button
  
 --- task ---
 Add another Button 3 and use the text tool to add a '-' symbol to it.
