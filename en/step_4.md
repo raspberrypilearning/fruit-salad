@@ -1,18 +1,18 @@
 ## Grow button
-Not all pieces of fruit are the same size. Now you're going to add buttons to grow and shrink your ingredient before adding it. 
+Not all pieces of fruit are the same size. Now you're going to add a button to grow your fruit ingredients before adding them. 
 
 --- task ---
 To add a button sprite go to Choose a Sprite.
 
 ![image showing Choose a Sprite](images/fruit-choose-sprite.png){:width="400px"}
 
-Search for Button3 by typing 'Button3' in the search menu and select it.
+Search for Button3 by beginning to type 'Button3' in the search menu. Select Button3.
 
 ![image showing Button3 sprite](images/fruit-button3-sprite.png){:width="400px"}
 
 --- /task ---
 
-You will now see button sitting in the Stage area. You need to move the button otherwise someone may eat it!
+You will now see the button sitting in the Stage area. You need to move the button off the plate otherwise someone may eat it!
 
 --- no-print ---
 ![gif showing Button3 in menu](images/fruit-button3-menu.gif).
@@ -21,13 +21,13 @@ You will now see button sitting in the Stage area. You need to move the button o
 
 --- task ---
 
-Drag the button in to position from the plate to the menu area on the left-hand side of the screen.
+Drag the button from the plate in to position in the menu area on the left-hand side of the screen.
 
 --- /task ---
 
 --- task ---
 
-Change the name of 'Button3' to **Grow** sprite.
+Change the name of Button3 to **Grow** sprite.
 
 --- /task ---
 
@@ -43,21 +43,19 @@ Choose the Text tool and select any Fill colour you like.
 
 Add a '+' symbol to your button by selecting the 'plus' key on your keyboard.
 
-Use the 'handles' to make the '+' the right size for your button. 
+Use the 'handles' around the button to change '+' size. Make sure it fits the button and can be seen clearly on your button. 
 
 ![image showing plus enlarging](images/fruit-grow-plus.png){:width="400px"}
 
 --- /task ---
 
+You now need to add some code to the **Grow** sprite.
+
 --- task ---
 Switch back to the Code tab. 
 ![image showing code tab](images/fruit-code-tab.gif){:width="300px"}
 
---- /task ---
-
---- task ---
-
-Add code to the **Grow** sprite to broadcast a 'grow' message when it is clicked. 
+Add the following code to the **Grow** sprite to broadcast a 'grow' message when it is clicked. 
 
 ```blocks3
 when this sprite clicked
@@ -65,7 +63,7 @@ broadcast grow
 ```
 --- /task ---
 
-You now need to add some code to the **Ingredients sprite** so it can recieve the message to grow.
+And now need to add some code to the **Ingredients sprite** so it can recieve the message from **Grow** sprite to grow.
 
 --- task ---
 
@@ -75,7 +73,7 @@ Select the **Ingredients sprite**.
 
 --- task ---
 
-Add the following code to the **Ingredients sprite** for it to grow:
+Add the following code to the **Ingredients sprite** to enable it to grow:
 
 ```blocks3
 when I receive [grow v]
@@ -87,4 +85,5 @@ change size by (10)
 Run your program. Make sure that you can grow your pieces of fruit before stamping them. 
 --- /task ---
 
+--- save ---
 
