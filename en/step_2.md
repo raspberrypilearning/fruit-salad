@@ -84,7 +84,7 @@ You will now need to add the `Pen`{:class="block3extensions"} extension block.
 
 --- task ---
 
-Go to the extension block tab and in the Code tab select the stamp block
+Go to the extension block tab and select the `Pen`{:class="block3extensions"} block.
 
 ![Add Pen extension](images/fruit-pen-extension.png)
 ![Add Pen extension](images/fruit-pen-extension2.png)
@@ -92,7 +92,12 @@ Go to the extension block tab and in the Code tab select the stamp block
 
 --- /task ---
 
+--- task ---
 
+Then in the Code tab, select the `stamp`{:class="block3extensions"} block
+ 
+ --- /task ---
+ 
 --- task ---
 Add blocks under the `when I receive [add]`{:class="block3events"} to move the Ingredient sprite to the location of the mouse pointer and create a stamp, then return to the starting position:
 
