@@ -86,7 +86,7 @@ Click 'Add extension' and choose the Pen extension.
 You will see a new Pen section in the Code tab. 
 
 --- task ---
-Add blocks under the `when I receive [add]` to move the Ingredient sprite to the location of the mouse pointer and create a stamp, then return to the starting position:
+Add blocks under the `when I receive [add]`{:class="block3events"} to move the Ingredient sprite to the location of the mouse pointer and create a stamp, then return to the starting position:
 
 ```blocks3
 when I receive [add]
@@ -95,7 +95,7 @@ stamp
 go to x: (-160) y: (100)
 ```
 
-**Tip:** The coordinates of the `go to x: y:` block will have the current location of the Ingredient sprite already in them so you shouldn't need to change them.
+**Tip:** The coordinates of the `go to x: y:`{:class="block3motion"} block will have the current location of the Ingredient sprite already in them so you shouldn't need to change them.
 --- /task ---
 
 --- task ---
@@ -112,7 +112,7 @@ If you add a piece of fruit so that it would overlap the stage then the stamp wi
 --- /task ---
 
 --- task ---
-The `erase all` block removes stamps. 
+The `erase all`{:class="block3extension"} block removes stamps. 
 
 Add code to the Ingredients sprite to clear the plate when the green flag is clicked. 
 
