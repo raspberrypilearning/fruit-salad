@@ -35,17 +35,17 @@ Change the name of 'Button3' to **Grow** sprite.
 
 Click on **Grow** sprite's Costumes tab. 
 
-![image showing Grow sprite paint editor](images/fruit-grow-paint.png){:width="300px"}
+![image showing Grow sprite paint editor](images/fruit-grow-paint.png){:width="400px"}
 
 Choose the Text tool and select any Fill colour you like. 
 
-![image showing text and fill tools](images/fruit-text-fill-tool.png){:width="300px"}
+![image showing text and fill tools](images/fruit-text-fill-tool.png){:width="200px"}
 
 Add a '+' symbol to your button by selecting the 'plus' key on your keyboard.
 
 Use the 'handles' to make the '+' the right size for your button. 
 
-![image showing plus enlarging](images/fruit-grow-plus.png){:width="300px"}
+![image showing plus enlarging](images/fruit-grow-plus.png){:width="400px"}
 
 --- /task ---
 
