@@ -29,9 +29,7 @@ Change the name of Button3 to **Shrink** sprite.
 You now need to add some code to the **Shrink** sprite.
 
 --- task ---
-Switch back to the Code tab. 
-
-Add the following code to the **Shrink** sprite to broadcast a 'shrink' message when it is clicked:
+Switch back to the **Shrink** sprite's Code tab and add the following code to broadcast a 'shrink' message when the sprite is clicked:
 
 ```blocks3
 when this sprite clicked
@@ -41,7 +39,7 @@ broadcast shrink
 
 --- task ---
 
-And now you need to add some code to the **Ingredients sprite** so it shrinks when it receives the message from **Grow** sprite to grow:
+And now add some code to the **Ingredients sprite** so it shrinks when it receives the message from **Shrink** sprite to shrink:
 
 ```blocks3
 when I receive [grow v]
