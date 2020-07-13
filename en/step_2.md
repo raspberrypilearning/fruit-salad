@@ -6,9 +6,15 @@ A stamp is a copy of the sprite which you can't move once you've stamped it.
 --- task ---
 First open the Fruit salad starter project. You will see a backdrop with a tablecloth and a plate. There's a menu sprite on the left of the stage and a fruit sprite that has fruit costumes that you'll be able to stamp onto the plate. 
 
-![Fruit salad starter project](images/fruit-starter.png)
+--- task ---
 
-emma: We will need a starter project without the Pen extension as they need to learn how to add this
+Open a new Scratch project.
+
+If working **online**, open the [starter project](http://rpf.io/fruit-salad-on){:target="_blank"} in Scratch.
+ 
+If working **offline**, open the project [starter file](http://rpf.io/p/en/serene-scene-get){:target="_blank"} in the Scratch offline editor. If you need to download and install Scratch, you can find it [here](https://scratch.mit.edu/download){:target="_blank"}.
+
+![Fruit salad starter project](images/fruit-starter.png)
 
 --- /task ---
 
