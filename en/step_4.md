@@ -1,4 +1,4 @@
-## Grow and shrink
+## Grow button
 Not all pieces of fruit are the same size. Now you're going to add buttons to grow and shrink your ingredient before adding it. 
 
 --- task ---
