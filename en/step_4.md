@@ -68,7 +68,8 @@ broadcast grow
 You now need to add some code to the **Ingredients sprite** so it can recieve the message to grow.
 
 --- task ---
-Select the **Ingredients sprite** 
+
+Select the **Ingredients sprite**.
 
 --- /task ---
 
@@ -80,6 +81,7 @@ Add the following code to the **Ingredients sprite** for it to grow:
 when I receive [grow v]
 change size by (10)
 ```
+--- /task ---
 
 --- task ---
 Run your program. Make sure that you can grow your pieces of fruit before stamping them. 
