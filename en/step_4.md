@@ -2,7 +2,18 @@
 Not all pieces of fruit are the same size. Now you're going to add buttons to grow and shrink your ingredient before adding it. 
 
 --- task ---
-Add another Button3 sprite. 
+To add a button sprite go to Choose a Sprite.
+
+![image showing Choose a Sprite](images/fruit-choose-sprite.png) 
+
+Search for Button3 sprite by typing 'Button3' in the search menu.
+
+![image showing Button3 search](images/fruit-button3-sprite.png).
+
+Select 'Button3'. You will now see the button on the Stage. Drag it in to the menu area to the left of the screen.
+
+Change the name of 'Button3' sprite to **Grow** sprite.
+
 --- /task ---
 
 --- task ---
