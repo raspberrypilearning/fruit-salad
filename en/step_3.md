@@ -10,8 +10,6 @@ next costume
 ```
 --- /task ---
 
-A fruit salad needs to have more than one type of fruit.
-
 --- task ---
 
 Now you can try out your project. Click on the **Ingredients** sprite until you see the fruit you want to add, then click on the plate as many times as you like to add that fruit. You can't move a sprite once you have placed it so think carefully!
