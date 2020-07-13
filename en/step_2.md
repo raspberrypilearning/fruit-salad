@@ -75,7 +75,7 @@ The blocks under this block will run when you click on the stage.
 
 --- /task ---
 
-You will now need to add the Pen extension.
+You will now need to add the `Pen`{:class="block3extensions"} extension block.
 
 ![Pen blocks](images/fruit-pen-tool.gif)
 
