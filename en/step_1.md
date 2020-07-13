@@ -1,16 +1,18 @@
 ## Introduction
-In this project you'll create an app that you can use to design your own fruit salad. Preparing food and creating art are great ways to relax, the Fruit salad maker lets you make food art! 
+In this project you'll create an app that you can use to design your own fruit salad. Preparing food and creating art are great ways to relax, the Fruit salad app lets you make food art! 
 
 
 ### What you will make
 
-Click on the plate to create stamps of the fruit you see in the top left.  Click on the fruit to choose a different fruit. Click on the buttons to change the size or rotation of the fruit before stamping it. You can't move or change stamps after you add them so think carefully! Click the green flag to clear the plate and start again.
-
 --- no-print ---
-Add instructions for using the embedded content here.
+Click on the plate to create stamps (copies) of the fruit you see in the top left.  
+Click on the fruit to choose a different fruit. 
+Click on the size or rotation buttons to alter the fruit before stamping it. 
+You can't move or change the stamps after you add them so think carefully before laying out your fruit salad! 
+Click the green flag to clear the plate and start again.
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/410040607/?autostart=false" frameborder="0"></iframe>
 </div>
 --- /no-print ---
 
@@ -29,8 +31,6 @@ title: What you will need
 ### Software
 
 + Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
 
 ### Downloads
 
@@ -45,8 +45,7 @@ title: What you will learn
 
 + How to use `broadcast`{:class="block3events"} and `when I receive`{:class="block3events"} blocks to communicate between sprites
 + How to use the `Pen`{:class="block3extensions"} extension to `stamp`{:class="block3extensions"} sprites
-+ How to add code to the **Stage**
-
++ How to add code to the Stage
 
 --- /collapse ---
 
