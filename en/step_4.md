@@ -67,13 +67,7 @@ And now you need to add some code to the **Ingredients sprite** so it can reciev
 
 --- task ---
 
-Select the **Ingredients sprite**.
-
---- /task ---
-
---- task ---
-
-Add the following code to the **Ingredients sprite** to enable it to grow:
+Select the **Ingredients sprite** and add the following code to enable it to grow:
 
 ```blocks3
 when I receive [grow v]
