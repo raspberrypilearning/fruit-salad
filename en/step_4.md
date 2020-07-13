@@ -10,8 +10,6 @@ Search for Button3 sprite by typing 'Button3' in the search menu.
 
 ![image showing Button3 search](images/fruit-button3-sprite.png).
 
---- /task ---
-
 You now need to place the button in the menu area otherwise someone may eat it!
 
 --- /task ---
@@ -26,6 +24,7 @@ You now need to place the button in the menu area otherwise someone may eat it!
 Select 'Button3' and you will now see it as a button on the Stage area. Drag it in to the menu area to the left of the screen.
 
 Change the name of 'Button3' sprite to **Grow** sprite.
+
 --- /task ---
 
 
