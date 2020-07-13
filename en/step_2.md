@@ -118,7 +118,7 @@ If you add a piece of fruit so that it would overlap the Stage then the stamp wi
 We need to ensure that the plate is clear when the green flag is clicked. 
 
 --- task ---
-Go to Pen{:class="block3extensions"} and select the `erase all`{:class="block3extensions"} block. 
+Go to `Pen`{:class="block3extensions"} and select the `erase all`{:class="block3extensions"} block. 
 
 Add code to the Ingredients sprite to clear all the stamps from the plate.
 
