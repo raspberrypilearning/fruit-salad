@@ -1,7 +1,7 @@
 ## Stamping fruit
 Scratch's Extensions blocks offers additional block to use. For instance, the `Pen`{:class="block3extensions"} block allows you to draw and stamp (copy) images. You're going to use the `Pen`{:class="block3extensions"} extension to create 'stamps' of a fruit sprite. 
 
-A stamp is a copy of the sprite which you can't move once you've stamped it.
+A stamp is a copy of the sprite which you can't move or delete once you've stamped it.
 
 --- task ---
 
