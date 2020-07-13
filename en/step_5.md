@@ -33,7 +33,7 @@ Switch back to the **Shrink** sprite's Code tab and add the following code to br
 
 ```blocks3
 when this sprite clicked
-broadcast shrink
+broadcast [grow v]
 ```
 --- /task ---
 
