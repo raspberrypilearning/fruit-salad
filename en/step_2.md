@@ -84,11 +84,13 @@ You will now need to add the `Pen`{:class="block3extensions"} extension block.
 
 --- task ---
 
-Go to the extension block tab and select the `Pen`{:class="block3extensions"} block.
+Go to the extension block tab.
 
 ![Add Pen extension](images/fruit-pen-extension.png)
-![Add Pen extension](images/fruit-pen-extension2.png)
 
+Select the `Pen`{:class="block3extensions"} block.
+
+![Add Pen extension](images/fruit-pen-extension2.png){:width="300px"}
 
 --- /task ---
 
@@ -130,7 +132,7 @@ We need to ensure that the plate is clear at the start.
 --- task ---
 Add code to the **Ingredients** sprite to clear all the stamps from the plate when the `when green flag clicked`{:class="block3events"} block.
 
-Then go to `Pen`{:class="block3extensions"} and select the `erase all`{:class="block3extensions"} block. 
+Then go to `Pen`{:class="block3extensions"} and select the `erase all`{:class="block3extensions"} block:
 
 ```blocks3
 when green flag clicked
