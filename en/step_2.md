@@ -89,7 +89,7 @@ Go to the extension block tab and in the Code tab select the stamp block
 
 
 --- task ---
-Add blocks under the `when I receive [add]` to move the Ingredient sprite to the location of the mouse pointer and create a stamp, then return to the starting position:
+Add blocks under the `when I receive [add]`{:class="block3events"}  to move the Ingredient sprite to the location of the mouse pointer and create a stamp, then return to the starting position:
 
 ```blocks3
 when I receive [add]
@@ -115,10 +115,12 @@ If you add a piece of fruit so that it would overlap the Stage then the stamp wi
 
 --- /task ---
 
---- task ---
-The `erase all` block removes stamps. 
+We need to ensure that the plate is clear when the green flag is clicked. 
 
-Add code to the Ingredients sprite to clear the plate when the green flag is clicked. 
+--- task ---
+Go to Pen{:class="block3extensions"} and select the `erase all`{:class="block3extensions"} block. 
+
+Add code to the Ingredients sprite to clear all the stamps from the plate.
 
 ```blocks3
 when green flag clicked
