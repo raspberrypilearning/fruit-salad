@@ -63,7 +63,11 @@ broadcast [add v]
 --- task ---
 Now select the **Ingredients** sprite and click on the Code tab. 
 
+--- no-print ---
+
 ![Fruit salad Code tab](images/fruit-code-tab.gif)
+
+--- /no-print ---
 
 --- /task ---
 
@@ -80,7 +84,11 @@ All blocks under this block will now run when you click on the Stage.
 
 You will now need to add the `Pen`{:class="block3extensions"} extension block.
 
+--- no-print ---
+
 ![Pen blocks](images/fruit-pen-tool.gif)
+
+--- /no-print ---
 
 --- task ---
 
