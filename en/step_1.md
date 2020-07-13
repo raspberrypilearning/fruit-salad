@@ -17,7 +17,7 @@ Click on the plate to create stamps (copies) of the fruit you see in the top lef
 --- /no-print ---
 
 --- print-only ---
-![Complete project](images/showcasefs_static.png)
+![Complete project](images/showcasefs_static.png){:width="400px"}
 --- /print-only ---
 
 --- collapse ---
