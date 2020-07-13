@@ -6,10 +6,10 @@ In this project you'll create an app for family and friends to design their own 
 
 --- no-print ---
 Click on the plate to create stamps (copies) of the fruit you see in the top left.  
-Click on the fruit to choose a different fruit. 
-Click on the size or rotation buttons to alter the fruit before stamping it. 
-You can't move or change the stamps after you add them so think carefully before laying out your fruit salad! 
-Click the green flag to clear the plate and start again.
++ Click on the fruit to choose a different fruit. 
++ Click on the size or rotation buttons to alter the fruit before stamping it. 
++ You can't move or change the stamps after you add them so think carefully before laying out your fruit salad! 
++ Click the green flag to clear the plate and start again.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/410040607/?autostart=false" frameborder="0"></iframe>
