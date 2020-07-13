@@ -4,11 +4,8 @@ Scratch's Extensions blocks offers additional block to use. For instance, the `P
 A stamp is a copy of the sprite which you can't move once you've stamped it.
 
 --- task ---
+
 First open the Fruit salad starter project. You will see a backdrop with a tablecloth and a plate. There's a menu sprite on the left of the stage and a fruit sprite that has fruit costumes that you'll be able to stamp onto the plate. 
-
---- task ---
-
-Open a new Scratch project.
 
 If working **online**, open the [starter project](http://rpf.io/fruit-salad-on){:target="_blank"} in Scratch.
  
