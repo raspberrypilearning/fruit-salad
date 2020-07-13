@@ -2,7 +2,11 @@
 At the moment each piece of fruit faces in the same direction which  will limit the design you create with your fruit salad. To improve your app, you will add a rotate button which you can click to rotate your ingredient before stamping it.
 
 --- task ---
-Create a **Rotate** sprite button by selecting Button3 one final time,  moving it to the menu within the Stage area and titling it **Rotate** sprite.
+Create a **Rotate** sprite button by selecting Button3 one final time.
+
+Drag the new button to below the grow and shrink buttons in the menu.
+
+Rename it **Rotate** sprite.
 
 --- /task ---
 
