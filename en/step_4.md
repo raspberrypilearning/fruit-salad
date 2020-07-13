@@ -10,11 +10,27 @@ Search for Button3 sprite by typing 'Button3' in the search menu.
 
 ![image showing Button3 search](images/fruit-button3-sprite.png).
 
-Select 'Button3'. You will now see the button on the Stage. Drag it in to the menu area to the left of the screen.
+--- /task ---
 
-Change the name of 'Button3' sprite to **Grow** sprite.
+You now need to place the button in the menu area otherwise someone may eat it!
 
 --- /task ---
+
+--- task ---
+--- no-print ---
+
+![image showing Button3 search](images/fruit-button3-menu.gif).
+
+--- /no-print ---
+
+Select 'Button3' and you will now see it as a button on the Stage area. Drag it in to the menu area to the left of the screen.
+
+Change the name of 'Button3' sprite to **Grow** sprite.
+--- /task ---
+
+
+
+
 
 --- task ---
 Click on the Costumes tab. 
