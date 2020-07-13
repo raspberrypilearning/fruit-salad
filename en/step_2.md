@@ -23,9 +23,7 @@ Every time you click or tap on the Stage, you want to create a stamp of one of t
 
 Click on the Stage and then the Code tab. 
 
-![Fruit salad Stage](images/fruit-stage-code.png){:width="400px"}
-
-![Fruit salad Stage](images/fruit-code-tab.gif){:width="400px"}
+![Fruit salad Stage](images/fruit-code-tab.gif)
 
 --- /task ---
 
