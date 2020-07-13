@@ -6,7 +6,7 @@ You will now make another button but this time the button will shrink the fruit 
 
 Go to Choose a Sprite and select another Button3.
 
-You will now see the new second button sitting in the Stage area. Drag the button from the plate in the menu area on the left-hand side of the screen below the **Grow** sprite.
+You will now see the new second button sitting in the Stage area. Drag the button from the plate to the menu area on the left-hand side of the screen and place it below the **Grow**  button.
 
 --- /task ---
 
