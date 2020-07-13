@@ -11,7 +11,7 @@ Click the **Rotate** sprite's Costumes tab.
 
 Select the Paintbrush tool.
 
-![image showing Paintbrush tool](images/slider-paintbrush-tool.png)
+![image showing Paintbrush tool](images/slider-paintbrush-tool.png){:width="300px"}
 
 Ajust the Fill colour. 
 
@@ -24,7 +24,7 @@ Draw an arrow on the button.
 --- /task ---
 
 --- task ---
-Now add code to the button so it broadcasts a message when it is clicked:
+Now add code to the **Rotate** sprite so it broadcasts a message when it is clicked:
 
 ```blocks3
 when this sprite clicked
