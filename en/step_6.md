@@ -11,15 +11,19 @@ Click the **Rotate** sprite's Costumes tab.
 
 Select the Paintbrush tool.
 
-![image showing Paintbrush tool](images/slider-paintbrush-tool.png){:width="300px"}
+![image showing Paintbrush tool](images/fruit-paintbrush-tool.png){:width="200px"}
 
-Ajust the Fill colour. 
+Adjust the Fill colour. 
 
 Draw an arrow on the button. 
 
+--- no-print ---
+![Arrow on button in Costume editor](images/fruit-arrow.gif)
+
+--- /no-print ---
+
 **Tip:** If you make a mistake click on undo and then have another go.
 
-![Arrow on button in Costume editor]()
 
 --- /task ---
 
