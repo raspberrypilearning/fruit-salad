@@ -1,4 +1,4 @@
-## Add a rotate button
+## Rotate button
 At the moment each piece of fruit faces in the same direction. This limits the designs you can create with your fruit salad. To improve this, you'll add a rotate button which you can click to rotate your ingredient before stamping it.
 
 emma: This could be made into a challenge, or could use hints as it just repeats skills that have already been introduced. Instead of using the paintbrush you could just use the '*' with the Text tool?
