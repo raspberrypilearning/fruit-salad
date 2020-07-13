@@ -31,7 +31,7 @@ The Stage needs a block to detect when it is clicked.
 
 --- task ---
 
-Add a `when stage clicked` block:
+Add a `when stage clicked`{:class="block3events"} block:
 
 ```blocks3
 when stage clicked
@@ -43,7 +43,7 @@ Now the Stage needs to let the Ingredient sprite know that it should add an ingr
 
 --- task ---
 
-Add a `broadcast` {:class="block3events"} block:
+Add a `broadcast`{:class="block3events"} block:
 
 ```blocks3
 broadcast [message1 v]
@@ -75,15 +75,15 @@ The blocks under this block will run when you click on the stage.
 
 --- /task ---
 
+You are now going to open a new block in the block Extension: Pen{:class="block3extension"}.
+
 --- task ---
-Click 'Add extension' and choose the Pen extension. 
+Click 'Add extension' and choose the Pen extension.
 
 ![Add Pen extension](images/fruit-pen-extension.png)
 --- /task ---
 
 You will see a new Pen section in the Code tab. 
-
-![Pen blocks](images/fruit-pen-blocks.gif)
 
 --- task ---
 Add blocks under the `when I receive [add]` to move the Ingredient sprite to the location of the mouse pointer and create a stamp, then return to the starting position:
