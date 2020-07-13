@@ -63,7 +63,7 @@ broadcast [grow v]
 ```
 --- /task ---
 
-And now you need to add some code to the **Ingredients sprite** so it can recieve the message from **Grow** sprite to grow.
+And now you need to add some code to the **Ingredients sprite** so it can recieve the message from the **Grow** sprite to grow.
 
 --- task ---
 
