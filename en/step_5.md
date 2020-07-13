@@ -26,11 +26,7 @@ Change the name of Button3 to **Shrink** sprite.
 
 --- /task ---
 
---- task ---
-
 You now need to add some code to the **Shrink** sprite.
-
---- /task ---
 
 --- task ---
 Switch back to the Code tab. 
