@@ -125,6 +125,7 @@ Add code to the Ingredients sprite to clear all the stamps from the plate.
 ```blocks3
 when green flag clicked
 erase all
+```
 --- /task ---
 
 --- save ---
