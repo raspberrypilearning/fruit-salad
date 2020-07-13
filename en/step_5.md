@@ -6,25 +6,46 @@ You will now make another button but this time the button will shrink the fruit 
 
 Go to Choose a Sprite and select another Button3.
 
---- /task ---
-
---- task ---
-
-Select  the text tool to add a '-' symbol to it.
-
-
-
---- task ---
-Position and resize your new button. 
---- /task ---
-
---- task --- 
-Add code to your Shrink button to broadcast a 'shrink' event when it is clicked.
+You will now see the new second button sitting in the Stage area. Drag the button from the plate in the menu area on the left-hand side of the screen below the **Grow** sprite.
 
 --- /task ---
 
 --- task ---
-Add code to the **Ingredient** sprite to shrink when it receives a 'shrink' message:
+
+Go to the Costumes tab. 
+
+Select a Fill colour of your choice. 
+
+Select the text tool and type an '-' (minus) symbol on to the button. Resize the symbol.
+
+--- /task ---
+
+--- task ---
+
+Change the name of Button3 to **Shrink** sprite.
+
+--- /task ---
+
+--- task ---
+
+You now need to add some code to the **Shrink** sprite.
+
+--- /task ---
+
+--- task ---
+Switch back to the Code tab. 
+
+Add the following code to the **Shrink** sprite to broadcast a 'shrink' message when it is clicked:
+
+```blocks3
+when this sprite clicked
+broadcast shrink
+```
+--- /task ---
+
+--- task ---
+
+And now you need to add some code to the **Ingredients sprite** so it shrinks when it receives the message from **Grow** sprite to grow:
 
 ```blocks3
 when I receive [grow v]
