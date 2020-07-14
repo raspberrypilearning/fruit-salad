@@ -55,7 +55,9 @@ You now need to add some code to the **Grow** sprite.
 Switch back to the Code tab. 
 ![image showing code tab](images/fruit-code-tab.gif){:width="300px"}
 
-Add the following code to the **Grow** sprite to broadcast a 'grow' message when it is clicked. 
+Add the following code to the **Grow** sprite to broadcast a 'grow' message when it is clicked:
+
+![Grow button sprite icon](images/growButtonSpriteIcon.png)
 
 ```blocks3
 when this sprite clicked
@@ -68,6 +70,8 @@ And now you need to add some code to the **Ingredients** sprite so it can reciev
 --- task ---
 
 Select the **Ingredients** sprite and add the following code to enable it to grow:
+
+![Ingredients sprite icon](images/ingredientsSpriteIcon.png)
 
 ```blocks3
 when I receive [grow v]

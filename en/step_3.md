@@ -4,6 +4,8 @@ One type of fruit doesn't make a very interesting fruit salad. The Ingredient sp
 --- task ---
 Add code to the **Ingredients** sprite to switch to the next costume when you click on it. Go to `Looks`{:class="block3looks"} and select the `next costume`{:class="block3extensions"} block:
 
+![Ingredients sprite icon](images/ingredientsSpriteIcon.png)
+
 ```blocks3
 when this sprite clicked
 next costume

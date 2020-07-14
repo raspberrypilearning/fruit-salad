@@ -129,7 +129,7 @@ and then return the sprite location to the starting position within the menu:
 when I receive [add]
 go to (mouse-pointer v)
 stamp
-go to x: (-180) y: (100)
+go to x: (-172) y: (112)
 ```
 
 **Tip:** The coordinates of the `go to x: y:`{:class="block3motion"} block will have the current location of the Ingredient sprite already in them so you shouldn't need to change them.
