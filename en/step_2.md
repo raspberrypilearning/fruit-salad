@@ -61,8 +61,6 @@ Click on `message1`{:class="block3events"} and choose `New message`{:class="bloc
 
 Your code should look like this:
 
-![Stage icon](images/StageIcon.png)
-
 ```blocks3
 when stage clicked
 broadcast [add v]
@@ -125,6 +123,8 @@ stamp
 In the **Ingredients** sprite below the `when I receive [add]`{:class="block3events"} add three blocks to create a location of the mouse pointer, create a stamp
 and then return the sprite location to the starting position within the menu:
 
+![Ingredients sprite icon](images/ingredientsSpriteIcon.png)
+
 ```blocks3
 when I receive [add]
 go to (mouse-pointer v)
@@ -155,6 +155,8 @@ We need to ensure that the plate is clear at the start.
 Add code to the **Ingredients** sprite to clear all the stamps from the plate when the `when green flag clicked`{:class="block3events"} block.
 
 Then go to `Pen`{:class="block3extensions"} and select the `erase all`{:class="block3extensions"} block:
+
+![Ingredients sprite icon](images/ingredientsSpriteIcon.png)
 
 ```blocks3
 when green flag clicked
