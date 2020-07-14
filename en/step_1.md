@@ -30,11 +30,11 @@ title: What you will need
 
 ### Software
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
++ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
 
 ### Downloads
 
-+ [rpf.io/fruit-salad-go](http://rpf.io/fruit-salad-go){:target="_blank"}
++ Download the project [starter file](http://rpf.io/p/en/fruit-salad-go){:target="_blank"} if working offline
 
 --- /collapse ---
 
@@ -54,8 +54,8 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
+You can download the completed project [here](http://rpf.io/p/en/fruit-salad-get){:target="_blank"}.
 
-[Here is a link to the resources for this project](http://rpf.io/fruit-salad-go).
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/fruit-salad/print){:target="_blank"}.
 
 --- /collapse ---
