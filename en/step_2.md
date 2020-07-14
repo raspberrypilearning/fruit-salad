@@ -35,7 +35,7 @@ The Stage needs a block to detect when it is clicked.
 
 Add a `when stage clicked`{:class="block3events"} block:
 
-![Stage sprite icon](images/StageIcon.png)
+![Stage icon](images/StageIcon.png)
 
 ```blocks3
 when stage clicked
@@ -49,6 +49,8 @@ Now the Stage needs to let the Ingredient sprite know that it should add an ingr
 
 Add a `broadcast`{:class="block3events"} block:
 
+![Stage icon](images/StageIcon.png)
+
 ```blocks3
 broadcast [message1 v]
 ```
@@ -58,6 +60,8 @@ Click on `message1`{:class="block3events"} and choose `New message`{:class="bloc
 --- /task ---
 
 Your code should look like this:
+
+![Stage icon](images/StageIcon.png)
 
 ```blocks3
 when stage clicked
@@ -77,6 +81,8 @@ Now select the **Ingredients** sprite and click on the Code tab.
 
 --- task ---
 Add a `when I receive`{:class="block3events"} block:
+
+![Ingredients sprite icon](images/ingredientsSpriteIcon.png)
 
 ```blocks3
 when I receive [add v]
