@@ -33,17 +33,17 @@ Switch back to the **Shrink** sprite's Code tab and add the following code to br
 
 ```blocks3
 when this sprite clicked
-broadcast [grow v]
+broadcast [shrink v]
 ```
 --- /task ---
 
 --- task ---
 
-And now add some code to the **Ingredients sprite** so it shrinks when it receives the message from **Shrink** sprite to shrink:
+And now add some code to the **Ingredients** sprite so it shrinks when it receives the message from **Shrink** sprite to shrink:
 
 ```blocks3
-when I receive [grow v]
-change size by (-10)
+when I receive [shrink v]
+change size by (-5)
 ```
 --- /task ---
 

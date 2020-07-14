@@ -35,6 +35,8 @@ The Stage needs a block to detect when it is clicked.
 
 Add a `when stage clicked`{:class="block3events"} block:
 
+![Stage sprite icon](images/StageIcon.png)
+
 ```blocks3
 when stage clicked
 ```
@@ -121,7 +123,7 @@ and then return the sprite location to the starting position within the menu:
 when I receive [add]
 go to (mouse-pointer v)
 stamp
-go to x: (-160) y: (100)
+go to x: (-180) y: (100)
 ```
 
 **Tip:** The coordinates of the `go to x: y:`{:class="block3motion"} block will have the current location of the Ingredient sprite already in them so you shouldn't need to change them.

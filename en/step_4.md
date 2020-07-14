@@ -63,15 +63,15 @@ broadcast [grow v]
 ```
 --- /task ---
 
-And now you need to add some code to the **Ingredients sprite** so it can recieve the message from the **Grow** sprite to grow.
+And now you need to add some code to the **Ingredients** sprite so it can recieve the message from the **Grow** sprite to grow.
 
 --- task ---
 
-Select the **Ingredients sprite** and add the following code to enable it to grow:
+Select the **Ingredients** sprite and add the following code to enable it to grow:
 
 ```blocks3
 when I receive [grow v]
-change size by (10)
+change size by (5)
 ```
 --- /task ---
 
