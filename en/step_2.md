@@ -88,7 +88,7 @@ Add a `when I receive`{:class="block3events"} block:
 when I receive [add v]
 ```
 
-All blocks under this block will now run when you click on the Stage.
+All the code under this event block will now run when you click on the Stage.
 
 --- /task ---
 
@@ -102,11 +102,11 @@ You will now need to add the `Pen`{:class="block3extensions"} extension block.
 
 --- task ---
 
-Go to the extension block tab.
+Go to the Add Extension button.
 
 ![Add Pen extension](images/fruit-pen-extension.png)
 
-Select the `Pen`{:class="block3extensions"} block.
+Select the `Pen`{:class="block3extensions"} extension.
 
 ![Add Pen extension](images/fruit-pen-extension2.png){:width="300px"}
 
@@ -122,7 +122,7 @@ stamp
  --- /task ---
  
 --- task ---
-In the **Ingredients** sprite below the `when I receive [add]`{:class="block3events"} add three blocks to create a location of the mouse pointer, create a stamp
+In the **Ingredients** sprite below the `when I receive`{:class="block3events"} `add` add three blocks to create a location of the mouse pointer, create a stamp
 and then return the sprite location to the starting position within the menu:
 
 ![Ingredients sprite icon](images/ingredientsSpriteIcon.png)
