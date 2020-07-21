@@ -143,7 +143,7 @@ Try out your project by clicking on the bowl to add pieces of fruit.
 
 The **Ingredient** sprite moves from the menu to the mouse pointer, creates a stamp and then moves back to the menu. This happens quickly so you don't see it move!
 
-You won't be able to create a stamp by clicking on the menu as the menu stops you doing this. The 'add' message only gets broadcast if you click on the Stage.
+You won't be able to create a stamp by clicking on the menu as the menu stops you doing this. The `add`{:class="block3events"} message only gets broadcast if you click on the Stage.
 
 If you add a piece of fruit so that it overlaps the Stage then the stamp will automatically go behind the menu. 
 

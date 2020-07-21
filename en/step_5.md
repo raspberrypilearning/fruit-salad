@@ -4,7 +4,7 @@ You will now make another button but this time the button will shrink the fruit 
 
 --- task ---
 
-Go to Choose a Sprite and select another Button3.
+Go to Choose a Sprite and select another **Button3**.
 
 You will now see the new second button sitting in the Stage area. Drag the button from the bowl to the menu area on the left-hand side of the screen and place it below the **Grow**  button.
 
@@ -22,14 +22,14 @@ Select the text tool and type an '-' (minus) symbol on to the button. Resize the
 
 --- task ---
 
-Change the name of Button3 to **Shrink** sprite.
+Change the name of **Button3** sprite to **Shrink**.
 
 --- /task ---
 
 You now need to add some code to the **Shrink** sprite.
 
 --- task ---
-Switch back to the **Shrink** sprite's Code tab and add the following code to broadcast a 'shrink' message when the sprite is clicked:
+Switch back to the **Shrink** sprite's Code tab and add the following code to broadcast a `shrink`{:class="block3events"} message when the sprite is clicked:
 
 ```blocks3
 when this sprite clicked

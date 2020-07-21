@@ -27,7 +27,7 @@ Drag the button from the bowl in to position in the menu area on the left-hand s
 
 --- task ---
 
-Change the name of Button3 to **Grow** sprite.
+Change the name of the **Button3** sprite to **Grow**.
 
 --- /task ---
 
@@ -55,7 +55,7 @@ You now need to add some code to the **Grow** sprite.
 Switch back to the Code tab. 
 ![image showing code tab](images/fruit-code-tab.gif){:width="300px"}
 
-Add the following code to the **Grow** sprite to broadcast a 'grow' message when it is clicked:
+Add the following code to the **Grow** sprite to broadcast a `grow`{:class="block3events"} message when it is clicked:
 
 ![Grow button sprite icon](images/growButtonSpriteIcon.png)
 
