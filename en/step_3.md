@@ -14,7 +14,7 @@ next costume
 
 --- task ---
 
-Now you can try out your project. Click on the **Ingredients** sprite until you see the fruit you want to add, then click on the plate as many times as you like to add that fruit. You can't move a sprite once you have placed it so think carefully!
+Now you can try out your project. Click on the **Ingredients** sprite until you see the fruit you want to add, then click on the bowl as many times as you like to add that fruit. You can't move a sprite once you have placed it so think carefully!
 
 Choose a different fruit and stamp that as well. 
 

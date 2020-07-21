@@ -43,7 +43,7 @@ when stage clicked
 
 --- /task ---
 
-Now the Stage needs to let the Ingredient sprite know that it should add an ingredient to the plate. The `broadcast`{:class="block3events"} block sends a message which any sprite can receive. 
+Now the Stage needs to let the Ingredient sprite know that it should add an ingredient to the bowl. The `broadcast`{:class="block3events"} block sends a message which any sprite can receive. 
 
 --- task ---
 
@@ -137,7 +137,7 @@ go to x: (-172) y: (112)
 --- /task ---
 
 --- task ---
-Try out your project by clicking on the plate to add pieces of fruit.
+Try out your project by clicking on the bowl to add pieces of fruit.
 
 The **Ingredient** sprite moves from the menu to the mouse pointer, creates a stamp and then moves back to the menu, this happens quickly so you don't see it move!
 
@@ -149,10 +149,10 @@ If you add a piece of fruit so that it overlaps the Stage then the stamp will au
 
 --- /task ---
 
-We need to ensure that the plate is clear at the start. 
+We need to ensure that the bowl is clear at the start. 
 
 --- task ---
-Add code to the **Ingredients** sprite to clear all the stamps from the plate when the `when green flag clicked`{:class="block3events"} block.
+Add code to the **Ingredients** sprite to clear all the stamps from the bowl when the `when green flag clicked`{:class="block3events"} block.
 
 Then go to `Pen`{:class="block3extensions"} and select the `erase all`{:class="block3extensions"} block:
 

@@ -12,7 +12,7 @@ Search for Button3 by beginning to type 'Button3' in the search menu. Select But
 
 --- /task ---
 
-You will now see the button sitting in the Stage area. You need to move the button off the plate otherwise someone may eat it!
+You will now see the button sitting in the Stage area. You need to move the button off the bowl otherwise someone may eat it!
 
 --- no-print ---
 ![gif showing Button3 in menu](images/fruit-button3-menu.gif).
@@ -21,7 +21,7 @@ You will now see the button sitting in the Stage area. You need to move the butt
 
 --- task ---
 
-Drag the button from the plate in to position in the menu area on the left-hand side of the screen.
+Drag the button from the bowl in to position in the menu area on the left-hand side of the screen.
 
 --- /task ---
 
