@@ -1,11 +1,11 @@
 ## Stamping fruit
-Scratch's Extensions blocks offer additional blocks to use. For instance, the `Pen`{:class="block3extensions"} block allows you to draw and stamp images. You're going to use the `Pen`{:class="block3extensions"} extension to create stamps of a fruit sprite. 
+Scratch's extensions offer additional blocks to use, such as the `Pen`{:class="block3extensions"} extension which allows you to draw and stamp images. You're going to use the `Pen`{:class="block3extensions"} extension to create stamps of a fruit sprite. 
 
 A stamp is a copy of the sprite which you can't move or delete once you've stamped it.
 
 --- task ---
 
-First open the Fruit salad starter project.  
+First, open the Fruit salad starter project.  
 
 If working **online**, open the [starter project](http://rpf.io/fruit-salad-on){:target="_blank"} in Scratch.
  
@@ -43,7 +43,9 @@ when stage clicked
 
 --- /task ---
 
-Now the Stage needs to let the Ingredient sprite know that it should add an ingredient to the bowl. The `broadcast`{:class="block3events"} block sends a message which any sprite can receive. 
+Now the Stage needs to let the **Ingredients** sprite know that it should add an ingredient to the bowl. 
+
+The `broadcast`{:class="block3events"} block sends a message which any sprite can receive. 
 
 --- task ---
 
@@ -55,7 +57,7 @@ Add a `broadcast`{:class="block3events"} block:
 broadcast [message1 v]
 ```
 
-Click on `message1`{:class="block3events"} and choose `New message`{:class="block3events"} and enter 'add'. 
+Click on `message1`{:class="block3events"} and choose `New message`{:class="block3events"} and enter `add`. 
 
 --- /task ---
 
