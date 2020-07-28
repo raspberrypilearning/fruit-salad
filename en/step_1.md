@@ -12,7 +12,7 @@ Click on the bowl to create stamps (copies) of the fruit you see in the top left
 + Click the green flag to clear the bowl and start again.
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/410040607/?autostart=false" frameborder="0"></iframe>
+  <iframe src="https://scratch.mit.edu/projects/411575753/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 --- /no-print ---
 
