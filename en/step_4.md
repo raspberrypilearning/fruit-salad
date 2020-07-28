@@ -52,10 +52,7 @@ Use the blue handles around the button to alter the '+' size. Make sure the '+' 
 You now need to add some code to the **Grow** sprite.
 
 --- task ---
-Switch back to the Code tab. 
-![image showing code tab](images/fruit-code-tab.gif){:width="300px"}
-
-Add the following code to the **Grow** sprite to broadcast a `grow`{:class="block3events"} message when it is clicked:
+Switch back to the Code tab and add the following code to the **Grow** sprite to broadcast a `grow`{:class="block3events"} message when it is clicked:
 
 ![Grow button sprite icon](images/growButtonSpriteIcon.png)
 
