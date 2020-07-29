@@ -37,25 +37,31 @@ Add a `when stage clicked`{:class="block3events"} block:
 
 ![Stage icon](images/StageIcon.png)
 
+
 ```blocks3
 when stage clicked
 ```
 
 --- /task ---
 
+
 Now the Stage needs to let the **Ingredients** sprite know that it should add an ingredient to the bowl. 
 
 The `broadcast`{:class="block3events"} block sends a message which any sprite can receive. 
+
 
 --- task ---
 
 Add a `broadcast`{:class="block3events"} block:
 
+
 ![Stage icon](images/StageIcon.png)
+
 
 ```blocks3
 broadcast [message1 v]
 ```
+
 
 Click on `message1`{:class="block3events"} and choose `New message`{:class="block3events"} and enter `add`. 
 
@@ -84,6 +90,7 @@ Add a `when I receive`{:class="block3events"} block:
 
 ![Ingredients sprite icon](images/ingredientsSpriteIcon.png)
 
+
 ```blocks3
 when I receive [add v]
 ```
@@ -104,6 +111,7 @@ You will now need to add the `Pen`{:class="block3extensions"} extension block.
 
 Go to the Add Extension button.
 
+
 ![Add Pen extension](images/fruit-pen-extension.png)
 
 Select the `Pen`{:class="block3extensions"} extension.
@@ -113,6 +121,7 @@ Select the `Pen`{:class="block3extensions"} extension.
 --- /task ---
 
 --- task ---
+
 
 Then in the Code tab, select the `stamp`{:class="block3extensions"} block:
 
@@ -126,6 +135,7 @@ In the **Ingredients** sprite below the `when I receive`{:class="block3events"} 
 and then return the sprite location to the starting position within the menu:
 
 ![Ingredients sprite icon](images/ingredientsSpriteIcon.png)
+
 
 ```blocks3
 when I receive [add]
@@ -154,9 +164,11 @@ If you add a piece of fruit so that it overlaps the Stage then the stamp will au
 We need to ensure that the bowl is clear at the start. 
 
 --- task ---
+
 Add code to the **Ingredients** sprite to clear all the stamps from the bowl when the `when green flag clicked`{:class="block3events"} block.
 
 Then go to `Pen`{:class="block3extensions"} and select the `erase all`{:class="block3extensions"} block:
+
 
 ![Ingredients sprite icon](images/ingredientsSpriteIcon.png)
 
