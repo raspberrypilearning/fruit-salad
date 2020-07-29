@@ -1,15 +1,16 @@
-title: fruit-salad
+title: Fruit salad
 hero_image: images/banner.png
 description: Create an app to concoct a fruit salad from fruit of varying sizes and in diffrent arrangements
-version: 4
+version: 5
 listed: false
 copyedit: false
 last_tested: "2020-06-30"
 steps:
   - title: Introduction
-  - title: Stamping
-  - title: Change the fruit
-  - title: Add resize buttons
-  - title: Rotate the fruit
+  - title: Stamp fruit
+  - title: Choose other fruit
+  - title: Grow button
+  - title: Shrink button
+  - title: Rotate button
   - title: What next?
   

@@ -1,72 +1,57 @@
-## Add a rotate button
-At the moment each piece of fruit faces in the same direction. This limits the designs you can create with your fruit salad. To improve this, you'll add a rotate button which you can click to rotate your ingredient before stamping it.
+## Shrink button
 
-emma: This could be made into a challenge, or could use hints as it just repeats skills that have already been introduced. Instead of using the paintbrush you could just use the '*' with the Text tool?
-
---- task ---
-Add a Button3 sprite to your project. 
---- /task ---
+You will now make another button but this time the button will shrink the fruit ingredients. Go back to grow sprite if you need a reminder on any of the following steps.
 
 --- task ---
-Click on the Costumes tab. You are going to add an arrow to show that this button will rotate the Ingredient.
 
-Select the Paintbrush tool and adjust the Fill and Brush width settings - you can choose the colour and width of the brush. 
+Go to Choose a Sprite and select another **Button3**.
 
-Draw an arrow on the button. 
-
-**Tip:** If you make a mistake click on undo and then have another go.
-
-![Arrow on button in Costume editor]()
+You will now see the new second button sitting in the Stage area. Drag the button from the bowl to the menu area on the left-hand side of the screen and place it below the **Grow**  button.
 
 --- /task ---
 
 --- task ---
-Drag the rotate button onto the menu, under the ingredient. 
 
-![Rotate button on menu]()
+Go to the Costumes tab. 
+
+Select a Fill colour of your choice. 
+
+Select the text tool and type an '-' (minus) symbol on to the button. Resize the symbol.
 
 --- /task ---
 
 --- task ---
-Click on Code tab so you can add code to the button.
+
+Change the name of **Button3** sprite to **Shrink**.
+
 --- /task ---
 
---- task ---
-Do you think the button is too big? If so you can reduce it by changing the number below the stage or by using a code block. 
-
-emma: Do we want to explain exactly how to do this or do we assume they know by this point in the pathway?
---- /task ---
+You now need to add some code to the **Shrink** sprite.
 
 --- task ---
-Now add code to the button so it broadcasts a message when it is clicked:
+Switch back to the **Shrink** sprite's Code tab and add the following code to broadcast a `shrink`{:class="block3events"} message when the sprite is clicked:
 
 ```blocks3
 when this sprite clicked
-broadcast [rotate v]
+broadcast [shrink v]
 ```
 --- /task ---
 
 --- task ---
-Now select the Ingredient sprite and click on the Code tab. 
 
-Add code to rotate the ingredient when a `rotate` message is received. 
+And now add some code to the **Ingredients** sprite so it shrinks when it receives the message from **Shrink** sprite to shrink:
 
 ```blocks3
-when I recieve [rotate v]
-turn 45
+when I receive [shrink v]
+change size by (-5)
 ```
-
-You don't have to rotate the Ingredient 45 degrees (half a right angle) each time the rotate button is clicked, you could choose a different number. 
 --- /task ---
 
 --- task ---
-Try your project now. Choose an ingredient, rotate it, stamp it as many times and you like and keep adding ingredients to create a fruit salad. 
-
+Take some time to enjoy your project and design a fruit salad. 
 --- /task ---
 
 --- save ---
-
- 
 
 
 
