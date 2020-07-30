@@ -34,7 +34,7 @@ title: What you will need
 
 ### Downloads
 
-+ Download the project [starter file](http://rpf.io/p/en/fruit-salad-off){:target="_blank"} if working offline
++ Download the project [starter file](http://rpf.io/p/en/fruit-salad-get){:target="_blank"} if working offline
 
 --- /collapse ---
 

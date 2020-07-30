@@ -16,7 +16,7 @@ Go to the Costumes tab.
 
 Select a Fill colour of your choice. 
 
-Select the text tool and type an '-' (minus) symbol on to the button. Resize the symbol.
+Select the text tool and type an <kbd>-</kbd> (minus) symbol on to the button. Resize the symbol.
 
 --- /task ---
 

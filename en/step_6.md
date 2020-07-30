@@ -1,5 +1,5 @@
 ## Rotate button
-At the moment each piece of fruit faces in the same direction which  will limit the design you create with your fruit salad. To improve your app, you will add a rotate button which you can click to rotate your ingredient before stamping it.
+At the moment each piece of fruit faces in the same direction which  will limit the design users can create with your fruit salad. To improve your app, you will add a rotate button which they can click to rotate the ingredient before stamping it.
 
 --- task ---
 Create a **Rotate** sprite button by selecting **Button3** once more.
@@ -15,7 +15,7 @@ Click the **Rotate** sprite's Costumes tab.
 
 Select the Paintbrush tool.
 
-![image showing Paintbrush tool](images/fruit-paintbrush-tool.png){:width="200px"}
+![image showing Paintbrush tool](images/fruit-paintbrush-tool.png){:width="150px"}
 
 Adjust the Fill colour. 
 

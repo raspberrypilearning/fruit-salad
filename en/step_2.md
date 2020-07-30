@@ -9,7 +9,7 @@ First, open the Fruit salad starter project.
 
 If working **online**, open the [starter project](http://rpf.io/fruit-salad-on){:target="_blank"} in Scratch.
  
-If working **offline**, open the project [starter file](http://rpf.io/p/en/fruit-salad-off){:target="_blank"} in the Scratch offline editor. If you need to download and install Scratch, you can find it [here](https://scratch.mit.edu/download){:target="_blank"}.
+If working **offline**, open the project [starter file](http://rpf.io/p/en/fruit-salad-get){:target="_blank"} in the Scratch offline editor. If you need to download and install Scratch, you can find it [here](https://scratch.mit.edu/download){:target="_blank"}.
 
 You will see a backdrop with a tablecloth and a bowl. There's a menu sprite on the left of the stage and a fruit sprite that has fruit costumes that you'll be able to stamp onto the bowl.
 
@@ -131,7 +131,7 @@ stamp
  --- /task ---
  
 --- task ---
-In the **Ingredients** sprite below the `when I receive`{:class="block3events"} `add` add three blocks to create a location of the mouse pointer, create a stamp
+In the **Ingredients** sprite below the `when I receive`{:class="block3events"} `add` three blocks to create a location of the mouse pointer, create a stamp
 and then return the sprite location to the starting position within the menu:
 
 ![Ingredients sprite icon](images/ingredientsSpriteIcon.png)
