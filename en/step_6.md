@@ -15,7 +15,7 @@ Click the **Rotate** sprite's Costumes tab.
 
 Select the Paintbrush tool.
 
-![image showing Paintbrush tool](images/fruit-paintbrush-tool.png){:width="200px"}
+![image showing Paintbrush tool](images/fruit-paintbrush-tool.png){:width="150px"}
 
 Adjust the Fill colour. 
 
