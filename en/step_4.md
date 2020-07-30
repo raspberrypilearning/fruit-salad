@@ -43,7 +43,7 @@ Choose the Text tool and select any Fill colour you like.
 
 Add a '+' symbol to your button by selecting the 'plus' key on your keyboard.
 
-Use the blue handles around the button to alter the '+' size. Make sure the '+' fits within button and can be seen clearly. 
+Use the blue handles around the button to alter the <kbd>+</kbd> size. Make sure the <kbd>+</kbd> fits within button and can be seen clearly. 
 
 ![image showing plus enlarging](images/fruit-grow-plus.png){:width="400px"}
 
