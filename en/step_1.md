@@ -1,15 +1,15 @@
 ## Introduction
-In this project you'll create an app for family and friends to design their own fruit salad. Preparing food and creating art are great ways to relax - the Fruit salad app lets you make food art! 
+In this project, you will create an app for family and friends to design their own fruit salad. Preparing food and creating art are great ways to relax — the Fruit salad app lets you make food art! 
 
 
 ### What you will make
 
 --- no-print ---
-Click on the bowl to create stamps (copies) of the fruit you see in the top left.  
+Click on the bowl to create stamps (copies) of the fruit that you see in the top left-hand corner.  
 + Click on the fruit to choose a different fruit. 
-+ Click on the size or rotation buttons to alter the fruit before stamping it. 
-+ You can't move or change the stamps after you add them so think carefully before laying out your fruit salad! 
-+ Click the green flag to clear the bowl and start again.
++ Click on the size or rotation buttons to alter the fruit before you stamp it. 
++ Think carefully before you lay out your fruit salad, because you can't move or change the stamps after you have added them! 
++ Click on the green flag to clear the bowl and start again.
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/411575753/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -26,7 +26,7 @@ title: What you will need
 ---
 ### Hardware
 
-+ A Computer or tablet capable of running Scratch
++ A computer or tablet capable of running Scratch
 
 ### Software
 
@@ -34,7 +34,7 @@ title: What you will need
 
 ### Downloads
 
-+ Download the project [starter file](http://rpf.io/p/en/fruit-salad-go){:target="_blank"} if working offline
++ If you are working offline, download the [project starter file](http://rpf.io/p/en/fruit-salad-go){:target="_blank"} 
 
 --- /collapse ---
 
@@ -43,9 +43,9 @@ title: What you will need
 title: What you will learn
 ---
 
-+ How to use `broadcast`{:class="block3events"} and `when I receive`{:class="block3events"} blocks to communicate between different sprites and between the stage and a sprites.
++ How to use `broadcast`{:class="block3events"} and `when I receive`{:class="block3events"} blocks to communicate between different sprites and between the Stage and a sprites.
 + How to use the `Pen`{:class="block3extensions"} extension to `stamp`{:class="block3extensions"} sprites
-+ How to add code to the Stage
++ How to add code to the **Stage**
 
 --- /collapse ---
 
@@ -54,7 +54,7 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-You can download the completed project [here](http://rpf.io/p/en/fruit-salad-get){:target="_blank"}.
+You can [download the completed project here](http://rpf.io/p/en/fruit-salad-get){:target="_blank"}.
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/fruit-salad/print){:target="_blank"}.
 
