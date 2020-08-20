@@ -1,35 +1,35 @@
-## Stamping fruit
-Scratch's extensions offer additional blocks to use, such as the `Pen`{:class="block3extensions"} extension which allows you to draw and stamp images. You're going to use the `Pen`{:class="block3extensions"} extension to create stamps of a fruit sprite. 
+## Stamp fruit
+Scratch extensions offer additional blocks to use, such as the `Pen`{:class="block3extensions"} extension, which allows you to draw and stamp images. You will use the `Pen`{:class="block3extensions"} extension to create stamps of a fruit sprite. 
 
-A stamp is a copy of the sprite which you can't move or delete once you've stamped it.
+A **stamp** is a copy of the sprite, which you cannot move or delete once you have stamped it.
 
 --- task ---
 
 First, open the Fruit salad starter project.  
 
-If working **online**, open the [starter project](http://rpf.io/fruit-salad-on){:target="_blank"} in Scratch.
+**Online:** open the [starter project](http://rpf.io/fruit-salad-on){:target="_blank"} in Scratch.
  
-If working **offline**, open the project [starter file](http://rpf.io/p/en/fruit-salad-go){:target="_blank"} in the Scratch offline editor. If you need to download and install Scratch, you can find it [here](https://scratch.mit.edu/download){:target="_blank"}.
+**Offline:** open the [project starter file](http://rpf.io/p/en/fruit-salad-go){:target="_blank"} in the Scratch offline editor. If you need to, you can [download and install Scratch here](https://scratch.mit.edu/download){:target="_blank"}.
 
-You will see a backdrop with a tablecloth and a bowl. There's a menu sprite on the left of the stage and a fruit sprite that has fruit costumes that you'll be able to stamp onto the bowl.
+You will see a backdrop with a tablecloth and a bowl. There is a **Menu** sprite on the left-hand side of the Stage and a fruit sprite that has fruit costumes that you will be able to stamp onto the bowl.
 
 ![Fruit salad starter project](images/fruit-starter.png){:width="400px"}
 
 --- /task ---
 
-The project doesn't have any code so it doesn't do anything yet.
+The project does not have any code, so it does not do anything yet.
 
 Every time you click or tap on the Stage, you want to create a stamp of one of the costumes in the **Ingredients** sprite at the location of your mouse pointer.
 
 --- task ---
 
-Click on the Stage and then the Code tab. 
+Click on the **Stage** and then the **Code** tab. 
 
 ![Fruit salad Stage](images/fruit-stage-code.png){:width="400px"}
 
 --- /task ---
 
-The Stage needs a block to detect when it is clicked. 
+The **Stage** needs a block to detect when it is clicked. 
 
 --- task ---
 
@@ -45,9 +45,9 @@ when stage clicked
 --- /task ---
 
 
-Now the Stage needs to let the **Ingredients** sprite know that it should add an ingredient to the bowl. 
+Now, the **Stage** needs to let the **Ingredients** sprite know that it should add an ingredient to the bowl. 
 
-The `broadcast`{:class="block3events"} block sends a message which any sprite can receive. 
+The `broadcast`{:class="block3events"} block sends a message that any sprite can receive. 
 
 
 --- task ---
@@ -75,7 +75,7 @@ broadcast [add v]
 ```
 
 --- task ---
-Now select the **Ingredients** sprite and click on the Code tab. 
+Now, select the **Ingredients** sprite and click on the **Code** tab. 
 
 --- no-print ---
 
@@ -99,7 +99,7 @@ All the code under this event block will now run when you click on the Stage.
 
 --- /task ---
 
-You will now need to add the `Pen`{:class="block3extensions"} extension block.
+Now, you need to add the `Pen`{:class="block3extensions"} extension blocks.
 
 --- no-print ---
 
@@ -109,12 +109,12 @@ You will now need to add the `Pen`{:class="block3extensions"} extension block.
 
 --- task ---
 
-Go to the Add Extension button.
+Click the **Add Extension** button.
 
 
 ![Add Pen extension](images/fruit-pen-extension.png)
 
-Select the `Pen`{:class="block3extensions"} extension.
+Select the **Pen** extension.
 
 ![Add Pen extension](images/fruit-pen-extension2.png){:width="300px"}
 
@@ -123,7 +123,7 @@ Select the `Pen`{:class="block3extensions"} extension.
 --- task ---
 
 
-Then in the Code tab, select the `stamp`{:class="block3extensions"} block:
+Then, in the **Code** tab, select the `stamp`{:class="block3extensions"} block:
 
 ```blocks3
 stamp
@@ -131,7 +131,7 @@ stamp
  --- /task ---
  
 --- task ---
-In the **Ingredients** sprite below the `when I receive`{:class="block3events"} `add` three blocks to create a location of the mouse pointer, create a stamp
+In the **Ingredients** sprite, below the `when I receive`{:class="block3events"} `add` three blocks to create a location of the mouse pointer, create a stamp,
 and then return the sprite location to the starting position within the menu:
 
 ![Ingredients sprite icon](images/ingredientsSpriteIcon.png)
@@ -144,30 +144,30 @@ stamp
 go to x: (-172) y: (112)
 ```
 
-**Tip:** The coordinates of the `go to x: y:`{:class="block3motion"} block will have the current location of the Ingredient sprite already in them so you shouldn't need to change them.
+**Tip:** The coordinates of the `go to x: y:`{:class="block3motion"} block will have the current location of the **Ingredients** sprite already in them, so you should not need to change them.
 
 --- /task ---
 
 --- task ---
-Try out your project by clicking on the bowl to add pieces of fruit.
+To try out your project, click on the bowl to add pieces of fruit.
 
-The **Ingredient** sprite moves from the menu to the mouse pointer, creates a stamp and then moves back to the menu. This happens quickly so you don't see it move!
+The **Ingredients** sprite moves from the menu to the mouse pointer, creates a stamp, and then moves back to the menu. This happens quickly, so you don't see it move!
 
-You won't be able to create a stamp by clicking on the menu as the menu stops you doing this. The `add`{:class="block3events"} message only gets broadcast if you click on the Stage.
+You will not be able to click on the menu to create a stamp because the menu stops you doing this. The `add`{:class="block3events"} message is only broadcast if you click on the Stage.
 
-If you add a piece of fruit so that it overlaps the Stage then the stamp will automatically go behind the menu. 
+If you add a piece of fruit so that it overlaps the Stage, the stamp will automatically go behind the menu. 
 
-**Tip:** On all projects, stamps go on top of backdrops but underneath sprites. 
+**Tip:** On all projects, stamps go on top of backdrops, but underneath sprites. 
 
 --- /task ---
 
-We need to ensure that the bowl is clear at the start. 
+You need to ensure that the bowl is clear at the start. 
 
 --- task ---
 
 Add code to the **Ingredients** sprite to clear all the stamps from the bowl when the `when green flag clicked`{:class="block3events"} block.
 
-Then go to `Pen`{:class="block3extensions"} and select the `erase all`{:class="block3extensions"} block:
+Then, go to the `Pen`{:class="block3extensions"} blocks menu and select the `erase all`{:class="block3extensions"} block:
 
 
 ![Ingredients sprite icon](images/ingredientsSpriteIcon.png)
