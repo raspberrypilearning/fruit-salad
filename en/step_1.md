@@ -44,7 +44,7 @@ title: What you will learn
 ---
 
 + How to use `broadcast`{:class="block3events"} and `when I receive`{:class="block3events"} blocks to communicate between different sprites and between the Stage and a sprite
-+ How to use the `Pen`{:class="block3extensions"} extension to `stamp`{:class="block3extensions"} sprites
++ How to use the `Pen`{:class="block3extensions"} extension blocks to `stamp`{:class="block3extensions"} sprites
 + How to add code to the **Stage**
 
 --- /collapse ---
