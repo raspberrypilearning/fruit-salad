@@ -1,5 +1,5 @@
 ## Choose more fruit
-One type of fruit doesn't make a very interesting fruit salad. The **Ingredients** sprite has other fruit costumes to choose from.
+To make your fruit salad more interesting, you might want to add other types of fruit. The **Ingredients** sprite has other fruit costumes to choose from.
 
 --- task ---
 Add code to the **Ingredients** sprite to switch to the next costume when you click on it. Go to the `Looks`{:class="block3looks"} blocks menu and select the `next costume`{:class="block3looks"} block:
