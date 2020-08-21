@@ -131,8 +131,7 @@ stamp
  --- /task ---
  
 --- task ---
-In the **Ingredients** sprite, below the `when I receive add`{:class="block3events"} block, add three blocks to go to the location of the mouse pointer, create a stamp,
-and then return to the starting position within the menu:
+In the **Ingredients** sprite, below the `when I receive add`{:class="block3events"} block, add three blocks to go to the location of the mouse pointer, create a stamp, and then return to the starting position within the menu:
 
 ![Ingredients sprite icon](images/ingredientsSpriteIcon.png)
 
