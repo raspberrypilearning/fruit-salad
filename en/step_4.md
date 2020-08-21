@@ -6,13 +6,13 @@ To add a button sprite, click on **Choose a Sprite**.
 
 ![image showing Choose a Sprite](images/fruit-choose-sprite.png){:width="400px"}
 
-Search for **Button3** by beginning to type `Button3` in the search menu. Select **Button3**.
+Type `Button3` into the search bar. Select **Button3**.
 
 ![image showing Button3 sprite](images/fruit-button3-sprite.png){:width="400px"}
 
 --- /task ---
 
-You will now see the button sitting on the Stage. You need to move the button off the bowl, otherwise someone may eat it!
+You will now see the button on the Stage. You need to move the button off the bowl, otherwise someone may eat it!
 
 --- no-print ---
 ![gif showing Button3 in menu](images/fruit-button3-menu.gif).
@@ -21,7 +21,7 @@ You will now see the button sitting on the Stage. You need to move the button of
 
 --- task ---
 
-Drag the button from the bowl into position in the menu area on the left-hand side of the screen.
+Drag the button from the bowl into position in the menu area on the left-hand side of the Stage.
 
 --- /task ---
 
@@ -41,7 +41,7 @@ Choose the **Text** tool and select any **Fill** colour you like.
 
 ![image showing text and fill tools](images/fruit-text-fill-tool.png){:width="100px"}
 
-Add a <kbd>+</kbd> symbol to your button by selecting the <kbd>+</kbd> key on your keyboard.
+Add a <kbd>+</kbd> symbol to your button. To do this, press the <kbd>+</kbd> key on your keyboard.
 
 Use the blue handles around the button to alter the size of the <kbd>+</kbd> symbol. Make sure that the <kbd>+</kbd> symbol fits within the button and can be seen clearly. 
 
@@ -52,7 +52,7 @@ Use the blue handles around the button to alter the size of the <kbd>+</kbd> sym
 Now, you need to add some code to the **Grow** sprite.
 
 --- task ---
-Switch back to the **Code** tab and add the following code to the **Grow** sprite to broadcast a `grow`{:class="block3events"} message when it is clicked:
+Switch back to the **Grow** sprite's **Code** tab and add the following code to `broadcast`{:class="block3events"} a `grow` message `when the sprite is clicked`{:class="block3events"}:
 
 ![Grow button sprite icon](images/growButtonSpriteIcon.png)
 
@@ -62,7 +62,7 @@ broadcast [grow v]
 ```
 --- /task ---
 
-Now, you need to add some code to the **Ingredients** sprite so that it can receive the message from the **Grow** sprite to grow.
+Now, you need to add some code for the **Ingredients** sprite so that it can receive the message to grow from the **Grow** sprite.
 
 --- task ---
 
