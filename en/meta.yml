@@ -9,8 +9,8 @@ steps:
   - title: Introduction
   - title: Stamp fruit
   - title: Choose other fruit
-  - title: Grow button
-  - title: Shrink button
-  - title: Rotate button
+  - title: Add a Grow button
+  - title: Add a Shrink button
+  - title: Add a Rotate button
   - title: What next?
   
