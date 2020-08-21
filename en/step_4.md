@@ -1,4 +1,4 @@
-## Grow button
+## Add a Grow button
 Not all pieces of fruit are the same size. In this step, you will add a button to grow your fruit ingredients before you add them. 
 
 --- task ---
