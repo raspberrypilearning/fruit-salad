@@ -1,12 +1,12 @@
-## Shrink button
+## Add a Shrink button
 
-In this step, you will make another button, but this button will shrink the ingredients. Go back to the **Grow** sprite if you need a reminder of any of the following steps.
+In this step, you will make another button, but this button will shrink the ingredients. If you need a reminder of any of the following steps, go back to the instructions for the **Grow** button.
 
 --- task ---
 
 Click on **Choose a Sprite** and select another **Button3** sprite.
 
-You will now see the new second button sitting on the Stage. Drag the button from the bowl to the menu area on the left-hand side of the screen and place it below the **Grow**  button.
+You will now see the new **Button3** sprite on the Stage. Drag the button from the bowl to the menu area on the left-hand side of the Stage and place it below the **Grow**  button.
 
 --- /task ---
 
@@ -26,10 +26,10 @@ Change the name of the **Button3** sprite to `Shrink`.
 
 --- /task ---
 
-Now, you need to add some code to the **Shrink** sprite.
+Now, you need to add some code for the **Shrink** sprite.
 
 --- task ---
-Switch back to the **Shrink** sprite's **Code** tab and add the following code to broadcast a `shrink`{:class="block3events"} message when the sprite is clicked:
+Switch back to the **Shrink** sprite's **Code** tab and add the following code to `broadcast`{:class="block3events"} a `shrink` message `when the sprite is clicked`{:class="block3events"}:
 
 ```blocks3
 when this sprite clicked
@@ -39,7 +39,7 @@ broadcast [shrink v]
 
 --- task ---
 
-Now, add some code to the **Ingredients** sprite so that it shrinks when it receives the message from the **Shrink** sprite to shrink:
+Now, add some code for the **Ingredients** sprite so that it shrinks when it receives the message to shrink from the **Shrink** sprite:
 
 ```blocks3
 when I receive [shrink v]
