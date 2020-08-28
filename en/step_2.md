@@ -131,7 +131,7 @@ stamp
  --- /task ---
  
 --- task ---
-In the **Ingredients** sprite’s code, below the `when I receive add`{:class="block3events"} block, add three blocks to tell the sprite to `go to`{:class="block3motion"} the location of the `mouse pointer`{:class="block3motion"}, create a `stamp`{:class="block3extensions"}, and then return to (`go to`{:class="block3motion"}) the starting position within the menu:
+In the **Ingredients** sprite's code, below the `when I receive add`{:class="block3events"} block, add three blocks to tell the sprite to `go to`{:class="block3motion"} the location of the `mouse pointer`{:class="block3motion"}, create a `stamp`{:class="block3extensions"}, and then return to (`go to`{:class="block3motion"}) the starting position within the menu:
 
 ![Ingredients sprite icon](images/ingredientsSpriteIcon.png)
 
