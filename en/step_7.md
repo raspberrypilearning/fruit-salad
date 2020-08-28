@@ -7,4 +7,4 @@ In this project, you have:
 
 If you are following the [Look After Yourself](https://projects.raspberrypi.org/en/pathways/look-after-yourself) projects, then try out the next project, [Relax and stretch](https://projects.raspberrypi.org/en/projects/relax-stretch).
 
-Spotted a mistake? Enjoyed the project? Please let us know! Click the Send feedback button below.
+Did you enjoy the project? Have you spotted a mistake? Please click the **Send feedback** button below and let us know!
