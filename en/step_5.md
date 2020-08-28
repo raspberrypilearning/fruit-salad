@@ -39,7 +39,7 @@ broadcast [shrink v]
 
 --- task ---
 
-Now, add some code for the **Ingredients** sprite so that it shrinks when it receives the message to shrink from the **Shrink** sprite:
+Now, add some code to the **Ingredients** sprite so that it shrinks when it receives the message to shrink from the **Shrink** sprite:
 
 ```blocks3
 when I receive [shrink v]
