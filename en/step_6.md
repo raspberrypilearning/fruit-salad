@@ -1,5 +1,5 @@
 ## Add a Rotate button
-At the moment, each piece of fruit faces in the same direction, which will limit the design that users can create with your fruit salad app. To improve your app, you will add a rotate button that users can click to rotate the ingredient before they stamp it.
+At the moment, each piece of fruit faces in the same direction, which will limit the design that users can create with your fruit salad app. To improve your app, you will add a **Rotate** button that users can click to rotate the ingredient before they stamp it.
 
 --- task ---
 Create a **Rotate** button sprite. To do this, select a **Button3** sprite once more.
@@ -32,7 +32,7 @@ Draw an arrow on the button.
 --- /task ---
 
 --- task ---
-Now, add code for the **Rotate** sprite so that it `broadcasts`{:class="block3events"} a `rotate` message `when the sprite is clicked`{:class="block3events"}:
+Now, add code to the **Rotate** sprite so that it `broadcasts`{:class="block3events"} a `rotate` message `when the sprite is clicked`{:class="block3events"}:
 
 ```blocks3
 when this sprite clicked
