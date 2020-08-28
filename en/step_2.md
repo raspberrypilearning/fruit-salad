@@ -137,7 +137,7 @@ In the **Ingredients** sprite's code, below the `when I receive add`{:class="blo
 
 
 ```blocks3
-when I receive [add]
+when I receive [add v]
 go to (mouse-pointer v)
 stamp
 go to x: (-172) y: (112)
