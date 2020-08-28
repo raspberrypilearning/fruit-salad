@@ -1,4 +1,4 @@
-## Choose more fruit
+## Choose other fruit
 To make your fruit salad more interesting, you might want to add other types of fruit. The **Ingredients** sprite has other fruit costumes to choose from.
 
 --- task ---
