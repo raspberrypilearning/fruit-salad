@@ -26,7 +26,7 @@ Change the name of the **Button3** sprite to `Shrink`.
 
 --- /task ---
 
-Now, you need to add some code for the **Shrink** sprite.
+Now, you need to add some code to the **Shrink** sprite.
 
 --- task ---
 Switch back to the **Shrink** sprite's **Code** tab and add the following code to `broadcast`{:class="block3events"} a `shrink` message `when the sprite is clicked`{:class="block3events"}:
