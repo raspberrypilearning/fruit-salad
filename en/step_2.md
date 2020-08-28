@@ -131,7 +131,7 @@ stamp
  --- /task ---
  
 --- task ---
-In the **Ingredients** sprite, below the `when I receive add`{:class="block3events"} block, add three blocks to go to the location of the mouse pointer, create a stamp, and then return to the starting position within the menu:
+In the **Ingredients** sprite’s code, below the `when I receive add`{:class="block3events"} block, add three blocks to tell the sprite to `go to`{:class="block3motion"} the location of the `mouse pointer`{:class="block3motion"}, create a `stamp`{:class="block3extensions"}, and then return to (`go to`{:class="block3motion"}) the starting position within the menu:
 
 ![Ingredients sprite icon](images/ingredientsSpriteIcon.png)
 
@@ -166,7 +166,7 @@ You need to ensure that the bowl is clear at the start.
 
 Add code to the **Ingredients** sprite to clear all the stamps from the bowl `when green flag clicked`{:class="block3events"}.
 
-Then, go to the `Pen`{:class="block3extensions"} blocks menu and select the `erase all`{:class="block3extensions"} block:
+In the **Ingredients** sprite's **Code** tab, add a `when green flag clicked`{:class="block3events"} block. Then, from the `Pen`{:class="block3extensions"} blocks menu, add an `erase all`{:class="block3extensions"} block:
 
 
 ![Ingredients sprite icon](images/ingredientsSpriteIcon.png)
