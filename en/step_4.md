@@ -1,5 +1,5 @@
 ## Add a Grow button
-Not all pieces of fruit are the same size. In this step, you will add a button to grow your fruit ingredients before you add them. 
+Not all pieces of fruit are the same size. In this step, you will add a button to grow your ingredients before you add them. 
 
 --- task ---
 To add a button sprite, click on **Choose a Sprite**.
@@ -41,7 +41,7 @@ Choose the **Text** tool and select any **Fill** colour you like.
 
 ![image showing text and fill tools](images/fruit-text-fill-tool.png){:width="100px"}
 
-Add a <kbd>+</kbd> symbol to your button. To do this, press the <kbd>+</kbd> key on your keyboard.
+Add a `+` symbol to your button. To do this, press the <kbd>+</kbd> key on your keyboard.
 
 Use the blue handles around the button to alter the size of the <kbd>+</kbd> symbol. Make sure that the <kbd>+</kbd> symbol fits within the button and can be seen clearly. 
 
@@ -62,7 +62,7 @@ broadcast [grow v]
 ```
 --- /task ---
 
-Now, you need to add some code for the **Ingredients** sprite so that it can receive the message to grow from the **Grow** sprite.
+Now, you need to add some code to the **Ingredients** sprite so that it can receive the message to grow from the **Grow** sprite.
 
 --- task ---
 
