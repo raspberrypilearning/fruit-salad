@@ -2,9 +2,9 @@ title: Fruit salad
 hero_image: images/fruitsalad-banner.png
 description: Create an app to make a fruit salad out of fruit of varying sizes and in different arrangements
 version: 5
-listed: false
-copyedit: false
-last_tested: "2020-06-30"
+listed: true
+copyedit: true
+last_tested: "2020-09-01"
 steps:
   - title: Introduction
   - title: Stamp fruit
