@@ -26,7 +26,7 @@ Change the name of the **Button3** sprite to `Shrink`.
 
 --- /task ---
 
-Now, you need to add some code for the **Shrink** sprite.
+Now, you need to add some code to the **Shrink** sprite.
 
 --- task ---
 Switch back to the **Shrink** sprite's **Code** tab and add the following code to `broadcast`{:class="block3events"} a `shrink` message `when the sprite is clicked`{:class="block3events"}:
@@ -39,7 +39,7 @@ broadcast [shrink v]
 
 --- task ---
 
-Now, add some code for the **Ingredients** sprite so that it shrinks when it receives the message to shrink from the **Shrink** sprite:
+Now, add some code to the **Ingredients** sprite so that it shrinks when it receives the message to shrink from the **Shrink** sprite:
 
 ```blocks3
 when I receive [shrink v]
