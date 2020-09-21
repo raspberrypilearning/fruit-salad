@@ -41,11 +41,11 @@ broadcast [rotate v]
 --- /task ---
 
 --- task ---
-Add a new script to the **Ingredients** sprite: use a `when I receive rotate`{:class="block3events"} block and a `turn left`{:class="block3motion"} block to rotate the **Ingredients** sprite when it receives a message to rotate.
+Add a new script to the **Ingredients** sprite: use a `when I receive rotate`{:class="block3events"} block and a `turn right`{:class="block3motion"} block to rotate the **Ingredients** sprite when it receives a message to rotate.
 
 ```blocks3
 when I receive [rotate v]
-turn left (15) degrees
+turn right (15) degrees
 ```
 
 You do not have to rotate the ingredients 45 degrees each time the **Rotate** button is clicked. You can choose any angle of rotation. 
