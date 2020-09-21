@@ -32,7 +32,7 @@ Draw an arrow on the button.
 --- /task ---
 
 --- task ---
-Now add a new script, `when the sprite is clicked`{:class="block3events"}, so that **Rotate** sprite `broadcasts`{:class="block3events"} a `rotate` message:
+Now add a new script, `when the sprite is clicked`{:class="block3events"}, so that the **Rotate** sprite `broadcasts`{:class="block3events"} a `rotate` message:
 
 ```blocks3
 when this sprite clicked
@@ -41,7 +41,7 @@ broadcast [rotate v]
 --- /task ---
 
 --- task ---
-Now, add another new script this time to the **Ingredients** sprite. Click on the **Code** tab. Add a `when I receive rotate`{:class="block3events"} block and a `turn left`{:class="block3motion"} block to rotate the **Ingredients** sprite when it receives a message to rotate. 
+Add another new script this time to the **Ingredients** sprite. Click on the **Code** tab. Add a `when I receive rotate`{:class="block3events"} block and a `turn left`{:class="block3motion"} block to rotate the **Ingredients** sprite when it receives a message to rotate. 
 
 ```blocks3
 when I receive [rotate v]
