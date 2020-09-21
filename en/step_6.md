@@ -43,7 +43,7 @@ broadcast [rotate v]
 --- task ---
 Now, select the **Ingredients** sprite and click on the **Code** tab. 
 
-Add code to rotate the **Ingredients** sprite when it receives a message to rotate. 
+Add code to rotate the **Ingredients** sprite when it receives a message to rotate `turn right 45 degrees`{:class="block3motion"}. Check that you have selected the correct `turn`{:class="block3motion"} right motion block.:
 
 ```blocks3
 when I receive [rotate v]
