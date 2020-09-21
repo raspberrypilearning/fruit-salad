@@ -45,7 +45,7 @@ Add a new script to the **Ingredients** sprite: use a `when I receive rotate`{:c
 
 ```blocks3
 when I receive [rotate v]
-turn [45] degrees :: motion
+turn left (15) degrees
 ```
 
 You do not have to rotate the ingredients 45 degrees each time the **Rotate** button is clicked. You can choose any angle of rotation. 
