@@ -39,7 +39,7 @@ Add a `when stage clicked`{:class="block3events"} block:
 
 
 ```blocks3
-when stage clicked
+when stage clicked :: event
 ```
 
 --- /task ---
