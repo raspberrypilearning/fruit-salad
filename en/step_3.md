@@ -2,7 +2,7 @@
 To make your fruit salad more interesting, you might want to add other types of fruit. The **Ingredients** sprite has other fruit costumes to choose from.
 
 --- task ---
-Add code to the **Ingredients** sprite to switch to the next costume when you click on it. Go to the `Looks`{:class="block3looks"} blocks menu and select the `next costume`{:class="block3looks"} block:
+In the **Ingredients** sprite, create a new script beginning with `when this sprite clicked`{:class="block3events"}. Go to the `Looks`{:class="block3looks"} blocks menu and select the `next costume`{:class="block3looks"} block to switch to the next costume:
 
 ![Ingredients sprite icon](images/ingredientsSpriteIcon.png)
 
