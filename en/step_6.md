@@ -32,7 +32,7 @@ Draw an arrow on the button.
 --- /task ---
 
 --- task ---
-Now, add a new script to the **Rotate** sprite: `when the sprite is clicked`{:class="block3events"}, it needs to`broadcast`{:class="block3events"} a `rotate` message:
+Now, add a new script to the **Rotate** sprite: `when the sprite is clicked`{:class="block3events"}, it needs to `broadcast`{:class="block3events"} a `rotate` message:
 
 ```blocks3
 when this sprite clicked
