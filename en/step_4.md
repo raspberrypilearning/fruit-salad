@@ -27,7 +27,7 @@ Drag the button from the bowl into position in the menu area on the left-hand si
 
 --- task ---
 
-Change the name of the **Button3** sprite. Click on the dialogue box that shows the sprite’s name. Replace 'Button3' with the new name 'Grow'.
+Change the name of the **Button3** sprite. Click on the dialogue box that shows the sprite’s name. Replace `Button3` with the new name, `Grow`.
 
 ![image showing text and fill tools](images/fruit-change-sprite-name.png)
 
