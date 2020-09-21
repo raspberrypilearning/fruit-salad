@@ -70,7 +70,7 @@ Click on `message1`{:class="block3events"} and choose `New message`{:class="bloc
 Your code should look like this:
 
 ```blocks3
-when stage clicked
+when stage clicked :: event
 broadcast [add v]
 ```
 
