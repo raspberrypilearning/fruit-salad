@@ -32,7 +32,8 @@ Draw an arrow on the button.
 --- /task ---
 
 --- task ---
-Now add a new script, `when the sprite is clicked`{:class="block3events"}, so that the **Rotate** sprite `broadcasts`{:class="block3events"} a `rotate` message:
+
+Now, add a new script to the **Rotate** sprite: `when the sprite is clicked`{:class="block3events"}, it needs to `broadcast`{:class="block3events"} a `rotate` message:
 
 ```blocks3
 when this sprite clicked
@@ -41,11 +42,12 @@ broadcast [rotate v]
 --- /task ---
 
 --- task ---
-Add another new script this time to the **Ingredients** sprite. Click on the **Code** tab. Add a `when I receive rotate`{:class="block3events"} block and a `turn left`{:class="block3motion"} block to rotate the **Ingredients** sprite when it receives a message to rotate. 
+
+Add a new script to the **Ingredients** sprite: use a `when I receive rotate`{:class="block3events"} block and a `turn right`{:class="block3motion"} block to rotate the **Ingredients** sprite when it receives a message to rotate.
 
 ```blocks3
 when I receive [rotate v]
-turn [45] degrees :: motion
+turn right (45) degrees
 ```
 
 You do not have to rotate the ingredients 45 degrees each time the **Rotate** button is clicked. You can choose any angle of rotation. 
