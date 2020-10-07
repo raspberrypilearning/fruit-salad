@@ -1,10 +1,7 @@
-## What next?
+## Share your project
 
-In this project, you have:
-+ Used `broadcast`{:class="block3events"} and `when I receive`{:class="block3events"} blocks so that the sprites can react to button presses
-+ Used the `Pen`{:class="block3extensions"} extension blocks to `stamp`{:class="block3extensions"} sprites to create patterns
-+ Added code to the **Stage**
+Remember you can share your completed Scratch project with your friends and family. To do this, follow the instructions below:
 
-If you are following the [Look after yourself](https://projects.raspberrypi.org/en/pathways/look-after-yourself) projects, then try out the next project, [Relax and stretch](https://projects.raspberrypi.org/en/projects/relax-stretch).
+[[[share-scratch]]]
 
-Did you enjoy the project? Have you spotted a mistake? Please click the **Send feedback** button below and let us know!
+If you are in a club, why not demonstrate your project to friends and peers?
