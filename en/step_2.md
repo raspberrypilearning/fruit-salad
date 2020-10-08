@@ -123,7 +123,7 @@ Select the **Pen** extension.
 --- task ---
 
 
-Then, in the **Code** tab, select the `stamp`{:class="block3extensions"} block:
+Then, in the **Code** tab, go to the **Pen** menu and add the `stamp`{:class="block3extensions"} block:
 
 ```blocks3
 stamp
