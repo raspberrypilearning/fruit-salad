@@ -1,4 +1,4 @@
-## Share your project
+## Share
 
 Remember you can share your completed Scratch project with your friends and family. To do this, follow the instructions below:
 
