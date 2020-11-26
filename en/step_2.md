@@ -38,9 +38,7 @@ Add a `when stage clicked`{:class="block3events"} block:
 ![Stage icon](images/StageIcon.png)
 
 
-```blocks3
-when stage clicked
-```
+![When stage clicked](images/when-stage-clicked.png)
 
 --- /task ---
 
@@ -69,10 +67,8 @@ Click on `message1`{:class="block3events"} and choose `New message`{:class="bloc
 
 Your code should look like this:
 
-```blocks3
-when stage clicked
-broadcast [add v]
-```
+![When stage clicked broadcast add](images/when-stage-clicked-broadcast.png)
+
 
 --- task ---
 Now, select the **Ingredients** sprite and go to the **Code** tab.
