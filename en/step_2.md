@@ -39,7 +39,7 @@ Add a `when stage clicked`{:class="block3events"} block:
 
 
 ```blocks3
-when stage clicked :: events
+when stage clicked
 ```
 
 --- /task ---
@@ -70,7 +70,7 @@ Click on `message1`{:class="block3events"} and choose `New message`{:class="bloc
 Your code should look like this:
 
 ```blocks3
-when stage clicked :: events
+when stage clicked
 broadcast [add v]
 ```
 
