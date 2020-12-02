@@ -1,4 +1,4 @@
-## Add a Shrink button
+## Add more
 
 In this step, you will make another button, but this button will shrink the ingredients. If you need a reminder of any of the following steps, go back to the instructions for the **Grow** button.
 
