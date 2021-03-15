@@ -1,72 +1,61 @@
-## Add a Shrink button
-
-In this step, you will make another button, but this button will shrink the ingredients. If you need a reminder of any of the following steps, go back to the instructions for the **Grow** button.
+## Add a Rotate button
+At the moment, each piece of fruit faces in the same direction, which will limit the design that users can create with your fruit salad app. To improve your app, you will add a **Rotate** button that users can click to rotate the ingredient before they stamp it.
 
 --- task ---
+Create a **Rotate** button sprite. To do this, select another **Button3** sprite.
 
-Click on **Choose a Sprite** and select another **Button3** sprite.
+Drag the new button to below the **Grow** button in the menu.
 
-You will now see the new **Button3** sprite on the Stage. Drag the button from the bowl to the menu area on the left-hand side of the Stage and place it below the **Grow**  button.
+Rename it `Rotate`.
+
+--- /task ---
+
+--- task ---
+Click on the **Rotate** sprite's **Costumes** tab.
+
+Select the **Brush** tool.
+
+![image showing Paintbrush tool](images/fruit-paintbrush-tool.png){:width="150px"}
+
+Adjust the **Fill** colour. 
+
+Draw an arrow on the button. 
+
+--- no-print ---
+![Arrow on button in Costume editor](images/fruit-arrow.gif)
+
+--- /no-print ---
+
+**Tip:** If you make a mistake, click on **Undo** and then have another go.
+
 
 --- /task ---
 
 --- task ---
 
-Go to the **Costumes** tab. 
-
-Select a **Fill** colour of your choice. 
-
-Select the **Text** tool and type a `-` (minus) symbol onto the button. Resize the symbol.
-
---- /task ---
-
---- task ---
-
-Change the name of the **Button3** sprite to `Shrink`.
-
---- /task ---
-
-Now, you need to add some code to the **Shrink** sprite.
-
---- task ---
-Switch back to the **Shrink** sprite's **Code** tab and add the following code to `broadcast`{:class="block3events"} a `shrink` message `when the sprite is clicked`{:class="block3events"}:
+Now, add a new script to the **Rotate** sprite: `when the sprite is clicked`{:class="block3events"}, it needs to `broadcast`{:class="block3events"} a `rotate` message:
 
 ```blocks3
 when this sprite clicked
-broadcast [shrink v]
+broadcast [rotate v]
 ```
 --- /task ---
 
 --- task ---
 
-Now, add some code to the **Ingredients** sprite so that it shrinks when it receives the message to shrink from the **Shrink** sprite:
+Add a new script to the **Ingredients** sprite: use a `when I receive rotate`{:class="block3events"} block and a `turn right`{:class="block3motion"} block to rotate the **Ingredients** sprite when it receives a message to rotate.
 
 ```blocks3
-when I receive [shrink v]
-change size by (-5)
+when I receive [rotate v]
+turn right (45) degrees
 ```
+
+You do not have to rotate the ingredients 45 degrees each time the **Rotate** button is clicked. You can choose any angle of rotation. 
 --- /task ---
 
 --- task ---
-Take some time to enjoy your project and design a fruit salad. 
+Try your project again. Choose an ingredient, rotate it, stamp it as many times as you like, and keep adding ingredients to create a fruit salad. What patterns can you create with fruit?
+
 --- /task ---
 
 --- save ---
-
-
-
-
-
-
-
- 
-
-
-
-
- 
-
-
-
-
-

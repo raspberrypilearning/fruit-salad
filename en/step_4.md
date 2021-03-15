@@ -78,8 +78,24 @@ change size by (5)
 ```
 --- /task ---
 
+Set the **Ingredients** sprite back to the original size each time you choose a new fruit costume. 
+
 --- task ---
-Run your program. Make sure that you can grow your pieces of fruit before you stamp them. 
+
+The **Ingredients** sprite is set to a starting size of `25`%. Find your existing `when this sprite clicked`{:class="block3events"} script and add a `set size to`{:class="block3looks"} block with the value `25`% to reset the size each time the costume changes:
+
+![Ingredients sprite icon](images/ingredientsSpriteIcon.png)
+
+```blocks3
+when this sprite clicked
++ set size to (25) %
+next costume
+```
+--- /task ---
+
+--- task ---
+Run your program. Make sure that you can grow your pieces of fruit before you stamp them and check that they return to the original size each time you choose a new fruit costume. 
+
 --- /task ---
 
 --- save ---
