@@ -34,7 +34,7 @@ title: What you will need
 
 ### Downloads
 
-+ If you are working offline, download the [project starter file](http://rpf.io/p/en/fruit-salad-go){:target="_blank"} 
++ If you are working offline, download the [project starter file](https://rpf.io/p/en/fruit-salad-go){:target="_blank"} 
 
 --- /collapse ---
 
@@ -54,7 +54,7 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-You can [download the completed project here](http://rpf.io/p/en/fruit-salad-get){:target="_blank"}.
+You can [download the completed project here](https://rpf.io/p/en/fruit-salad-get){:target="_blank"}.
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/fruit-salad/print){:target="_blank"}.
 
