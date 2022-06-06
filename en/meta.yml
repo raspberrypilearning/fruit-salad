@@ -9,12 +9,14 @@ copyedit: true
 last_tested: '2020-09-01'
 steps:
 - title: Introduction
-  completion: engaged
 - title: Stamp fruit
 - title: Choose other fruit
+  completion:
+  - engaged
 - title: Create a Grow button
 - title: Create a Rotate button
-  completion: internal
+  completion:
+  - internal
 - title: Add more
 - title: Share
 - title: What next?
