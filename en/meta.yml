@@ -19,6 +19,5 @@ steps:
   - internal
 - title: Add more
 - title: Share
-- title: What can you do now?
   completion:
   - external
